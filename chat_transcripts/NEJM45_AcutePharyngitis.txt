@@ -1,0 +1,194 @@
+👤 User:
+Sore throat and fever
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long have you been experiencing the sore throat and fever?
+
+------------------------------------------------------------
+👤 User:
+for 2 days
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your current temperature, and what's the highest it's been?
+
+------------------------------------------------------------
+👤 User:
+didn’t check my current temp., highest was 102.2
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How old are you?
+
+------------------------------------------------------------
+👤 User:
+24
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you male or female?
+
+Options: [Male | Female | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Male
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like diabetes, asthma, or heart problems?
+
+Options: [Diabetes | Asthma | Heart problems | High blood pressure | Kidney disease | Autoimmune condition | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently taking any medications or have you taken any in the past week?
+
+------------------------------------------------------------
+👤 User:
+Took Ibuprofen for fever
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke, drink alcohol, or use any recreational drugs?
+
+Options: [Smoke cigarettes | Drink alcohol occasionally | Drink alcohol regularly | Use marijuana | Use other drugs | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Besides the sore throat and fever, do you have any other symptoms?
+
+Options: [Headache | Body aches | Cough | Runny nose | Nausea or vomiting | Difficulty swallowing | Swollen glands in neck | Rash | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Headache, Difficulty swallowing, Swollen glands in neck
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How severe is your sore throat on a scale of 1-10, and does it hurt more when you swallow?
+
+------------------------------------------------------------
+👤 User:
+6, yes some pain when swallowing
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you looked at your throat in a mirror? If so, what does it look like - red, white patches, or anything else?
+
+------------------------------------------------------------
+👤 User:
+red
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been around anyone who was sick recently, or have you traveled anywhere in the past 2 weeks?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any allergies to medications, especially antibiotics like penicillin?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you seen a doctor for these symptoms or had any tests done like a rapid strep test?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any stomach pain, nausea, or changes in your appetite since this started?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you noticed any changes in your voice, like hoarseness or difficulty speaking?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any ear pain or pressure, or noticed any discharge from your ears?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any shortness of breath, chest pain, or difficulty breathing?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any skin changes like rash, unusual bruising, or bleeding from your gums or nose?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any changes in urination - frequency, burning, or unusual color?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your condition or how you've been feeling?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Urgent Care
+
+WhereToSeekCare:
+Urgent care clinic or same-day doctor visit
+
+LikelyCause:
+Bacterial pharyngitis (likely strep throat)
+
+KeyActions:
+• Continue ibuprofen 400-600mg every 6-8 hours for fever/pain • Gargle warm salt water (1/2 tsp salt in 8oz water) • Stay hydrated with warm liquids like tea or broth • Get throat culture/rapid strep test today
+
+WhatToExpectAtUrgentCare:
+Doctor will examine your throat and likely do rapid strep test or throat culture. If positive for strep, you'll get antibiotics like amoxicillin or azithromycin. Symptoms should improve within 24-48 hours of starting antibiotics.
+
+Warnings:
+Seek emergency care if you develop difficulty breathing, drooling, severe difficulty swallowing, or high fever above 103°F that doesn't respond to medication.
+
+Epilogue:
+Would you like me to help locate an urgent care clinic near you?

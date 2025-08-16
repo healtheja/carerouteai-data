@@ -1,0 +1,171 @@
+👤 User:
+My 2-year-old son Jack has a low-grade fever and has vomited a couple of times today.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How high is Jack's fever and when did the vomiting start?
+
+------------------------------------------------------------
+👤 User:
+His temperature was 100.5°F when I checked about an hour ago. He first threw up early this morning—around 7 a.m.—and again about an hour later. I gave him a little apple juice in a sippy cup just now and he vomited that up immediately.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is Jack having any diarrhea or loose stools today?
+
+Options: [Yes - loose/watery stools | Yes - diarrhea with blood or mucus | No diarrhea | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+No diarrhea
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How is Jack acting overall - is he playing, alert, and responsive like usual, or does he seem unusually sleepy or fussy?
+
+Options: [Playing and alert like usual | A bit fussy but responsive | Very fussy or irritable | Unusually sleepy or lethargic | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+A bit fussy but responsive
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is Jack still producing wet diapers? When was his last wet diaper?
+
+------------------------------------------------------------
+👤 User:
+He had a wet diaper about three hours ago, and it was moderately wet—so he is still making urine, just maybe not as much as usual.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does Jack have any other symptoms like runny nose, cough, ear pulling, rash, or stomach pain?
+
+Options: [Runny nose | Cough | Ear pulling or touching ears | Rash anywhere on body | Seems to have stomach/belly pain | Difficulty breathing | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has Jack been around anyone who's been sick recently, or has he been to daycare, playgroups, or other places with children?
+
+------------------------------------------------------------
+👤 User:
+He goes to daycare during the week, and I know a couple of the kids there have had colds lately, so it’s possible he picked something up from them.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has Jack eaten anything unusual in the past 24-48 hours, or any foods that might have been left out or spoiled?
+
+------------------------------------------------------------
+👤 User:
+Nothing out of the ordinary—just his usual toddler meals and snacks, all fresh and refrigerated properly.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does Jack have any ongoing health conditions or take any medications regularly?
+
+Options: [No health conditions or medications | Yes - health conditions | Yes - medications | Yes - both conditions and medications | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+No health conditions or medications
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you given Jack any fever reducers like Tylenol or Motrin today, and if so, when and how much?
+
+------------------------------------------------------------
+👤 User:
+I haven’t given him any Tylenol or Motrin yet today. I wanted to see if the fever stayed low first.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long has Jack been potty trained, and is he showing any signs of dehydration like dry mouth, no tears when crying, or sunken eyes?
+
+------------------------------------------------------------
+👤 User:
+He’s not potty trained yet—he still wears diapers. I haven’t noticed any real signs of dehydration: his lips and mouth look moist, he had tears when he got upset after vomiting, and his eyes don’t look sunken.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has Jack had any recent illnesses, injuries, or doctor visits in the past month?
+
+------------------------------------------------------------
+👤 User:
+No, he’s been healthy the past month—no illnesses, injuries, or doctor visits recently.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is Jack able to keep down small sips of clear liquids like water or electrolyte solution, or does he vomit everything he tries to drink?
+
+Options: [Keeps down small sips of clear liquids | Vomits everything he drinks | Haven't tried clear liquids yet | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Haven’t tried clear liquids yet
+
+------------------------------------------------------------
+📱 CareRoute AI:
+When Jack vomits, what does it look like - is it mostly clear/yellow, food particles, or does it have any blood or green color?
+
+Options: [Mostly clear or yellow | Contains food particles | Has blood or red streaks | Green or dark colored | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Contains food particles
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does Jack's belly feel hard or swollen when you gently touch it, or does he cry or pull away when you touch his stomach area?
+
+Options: [Belly feels soft and normal | Belly feels hard or swollen | He cries when I touch his belly | He pulls away from belly touches | Haven't checked his belly | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Belly feels soft and normal
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has Jack's fever gone higher than 100.5°F at any point today, and how is he sleeping - is he able to rest or very restless?
+
+------------------------------------------------------------
+👤 User:
+It hasn’t gone higher than 100.5°F so far today. He took a short nap after lunchtime and slept fairly normally—he stirred a couple of times but wasn’t unusually restless.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else about Jack's condition today that I should know - any other symptoms, behaviors, or concerns you've noticed?
+
+------------------------------------------------------------
+👤 User:
+No, I think I’ve told you everything relevant.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Self Care
+
+WhereToSeekCare:
+Monitor at home with clear liquid trial
+
+LikelyCause:
+Viral gastroenteritis (stomach bug)
+
+KeyActions:
+• Start with 1-2 teaspoons clear liquids every 15 minutes • Give acetaminophen 160mg (1 tsp) for fever if over 101°F • Rest stomach 1-2 hours after vomiting before trying fluids • Advance to bland foods only after 4-6 hours without vomiting • Continue frequent small sips even if some comes back up
+
+WhatToExpectNext:
+• Vomiting typically stops within 12-24 hours • Fever should break in 1-3 days • Appetite returns gradually over 2-3 days • Full recovery expected within 3-5 days
+
+ClearLiquidOptions:
+• Pedialyte or electrolyte solution (best choice) • Water in very small amounts • Diluted apple juice (1 part juice, 1 part water) • Avoid milk, full-strength juices, or sugary drinks
+
+SeekCareIf:
+• Fever over 102°F or lasting more than 3 days • Signs of dehydration (dry mouth, no tears, sunken eyes) • Blood in vomit or severe abdominal pain • No wet diapers for 6+ hours • Becomes very sleepy or hard to wake
+
+Epilogue:
+I'll check in tomorrow to see how Jack is doing. Any questions about managing his symptoms?

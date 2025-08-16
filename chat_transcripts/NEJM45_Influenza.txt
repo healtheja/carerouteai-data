@@ -1,0 +1,224 @@
+👤 User:
+fever, cough, headache and generalized weakness
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long have you been experiencing these symptoms?
+
+------------------------------------------------------------
+👤 User:
+all started suddenly 2 days ago
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your current temperature, and what's the highest it's been?
+
+------------------------------------------------------------
+👤 User:
+sorry didn’t measure
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Can you take your temperature now if you have a thermometer available?
+
+------------------------------------------------------------
+👤 User:
+no I don’t
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How would you rate your fever - mild warmth, moderate fever, or high fever with chills?
+
+Options: [Mild warmth | Moderate fever | High fever with chills | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Moderate fever
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Describe your cough - is it dry or are you bringing up mucus/phlegm?
+
+Options: [Dry cough | Cough with clear mucus | Cough with yellow/green mucus | Cough with blood | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Dry cough
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your age?
+
+------------------------------------------------------------
+👤 User:
+30
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you male or female?
+
+Options: [Male | Female | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Female
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there any chance you could be pregnant?
+
+Options: [No | Yes, possible | Yes, confirmed pregnant | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like diabetes, high blood pressure, asthma, or heart disease?
+
+Options: [Diabetes | High blood pressure | Asthma | Heart disease | Kidney disease | Autoimmune condition | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently taking any medications or supplements?
+
+Options: [No medications | Birth control only | Vitamins/supplements only | Prescription medications - I'll specify | Multiple medications - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No medications
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any known allergies to medications or other substances?
+
+Options: [No known allergies | Drug allergies - I'll specify | Food allergies - I'll specify | Environmental allergies only | Multiple allergies - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No known allergies
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke, drink alcohol, or use any recreational drugs?
+
+Options: [None of these | Smoke cigarettes | Drink alcohol occasionally | Drink alcohol regularly | Use marijuana | Use other substances - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Besides fever, cough, headache and weakness, do you have any other symptoms?
+
+Options: [Sore throat | Runny or stuffy nose | Body aches | Nausea or vomiting | Diarrhea | Shortness of breath | Chest pain | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you seen a doctor or had any tests done for these symptoms?
+
+Options: [No, haven't seen anyone | Saw doctor - no tests | Had COVID test | Had other tests - I'll specify | Waiting for test results]
+
+------------------------------------------------------------
+👤 User:
+Selected: No, haven't seen anyone
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been around anyone who was sick recently, or traveled anywhere in the past 2 weeks?
+
+Options: [No recent exposures | Around sick family/friends | Around sick coworkers | Recent travel - I'll specify | Large gatherings/events | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Around sick coworkers
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How is your appetite and are you able to keep fluids down?
+
+Options: [Normal appetite, drinking well | Decreased appetite but drinking okay | Poor appetite, struggling with fluids | Nausea, vomiting fluids | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Decreased appetite but drinking okay
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you having any difficulty breathing or chest discomfort?
+
+Options: [No breathing problems | Mild shortness of breath with activity | Shortness of breath at rest | Chest tightness or pain | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No breathing problems
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How would you rate your headache on a scale of 1-10, and where is it located?
+
+------------------------------------------------------------
+👤 User:
+5
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you experiencing any neck stiffness, sensitivity to light, or confusion?
+
+Options: [None of these | Neck stiffness | Light sensitivity | Confusion or disorientation | Severe headache worsening | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How severe is your weakness - are you able to do normal daily activities?
+
+Options: [Mild fatigue, can do most activities | Moderate weakness, need more rest | Severe weakness, hard to get out of bed | Unable to do basic activities | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Moderate weakness, need more rest
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your condition or symptoms?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Self Care
+
+WhereToSeekCare:
+Monitor at home, seek care if symptoms worsen
+
+LikelyCause:
+Viral upper respiratory infection
+
+KeyActions:
+• Rest and sleep 8+ hours daily • Drink plenty of fluids - water, herbal tea, broth • Take acetaminophen (Tylenol) 650mg every 6 hours for fever/headache • Take ibuprofen (Advil, Motrin) 400mg every 6-8 hours for body aches • Use throat lozenges or warm salt water gargles for comfort
+
+WhatToExpectWithSelfCare:
+Symptoms typically peak days 2-3, then gradually improve over 7-10 days. Fever should break within 3-4 days.
+
+WhenToSeekCare:
+• Fever over 103°F or lasting more than 5 days • Difficulty breathing or chest pain • Severe headache with neck stiffness • Unable to keep fluids down • Symptoms significantly worsening after day 3
+
+Epilogue:
+I can help locate urgent care or a doctor if your symptoms worsen. Any questions about managing your recovery?

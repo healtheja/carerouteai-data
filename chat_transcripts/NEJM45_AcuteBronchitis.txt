@@ -1,0 +1,224 @@
+👤 User:
+cough
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long have you had this cough?
+
+------------------------------------------------------------
+👤 User:
+for 12 days.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is this a dry cough or are you bringing up mucus/phlegm?
+
+Options: [Dry cough - no mucus | Bringing up clear mucus | Bringing up yellow/green mucus | Bringing up blood-tinged mucus | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Bringing up clear mucus
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How severe is your cough on a scale of 1-10, with 10 being the worst?
+
+Options: [1-2 (very mild) | 3-4 (mild) | 5-6 (moderate) | 7-8 (severe) | 9-10 (very severe)]
+
+------------------------------------------------------------
+👤 User:
+Selected: 3-4 (mild)
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your age?
+
+------------------------------------------------------------
+👤 User:
+34
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you male or female?
+
+Options: [Male | Female | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Female
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any other symptoms along with your cough?
+
+Options: [Fever | Sore throat | Runny nose | Stuffy nose | Headache | Body aches | Fatigue | Shortness of breath | Chest pain | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Other - I'll specify. Other - I'll specify: My symptoms started with nasal congestion and a sore throat, they are all resolved now except cough
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like asthma, diabetes, or heart disease?
+
+Options: [Asthma | Diabetes | High blood pressure | Heart disease | COPD | Allergies | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently taking any medications or have you taken any in the past 2 weeks?
+
+Options: [No medications | Yes - over-the-counter only | Yes - prescription medications | Yes - both prescription and OTC | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No medications
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke cigarettes, vape, or use any tobacco products?
+
+Options: [No, never | Yes, currently smoke cigarettes | Yes, currently vape/e-cigarettes | Yes, other tobacco products | Used to but quit | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No, never
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is your cough worse at any particular time of day or night?
+
+Options: [Same throughout the day | Worse in the morning | Worse at night | Worse when lying down | Worse with activity | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Same throughout the day
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been around anyone who was sick recently, or have you traveled anywhere in the past month?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does anything make your cough better or worse, like cold air, talking, or certain positions?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had a fever at any point during these 12 days, and if so, what was your highest temperature?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any allergies to medications or environmental triggers like pollen or dust?
+
+Options: [No known allergies | Seasonal allergies (pollen, grass) | Dust or pet allergies | Food allergies | Medication allergies | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No known allergies
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you experiencing any chest pain, tightness, or discomfort when you cough?
+
+Options: [No chest symptoms | Mild chest tightness | Sharp pain when coughing | Dull ache in chest | Burning sensation | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No chest symptoms
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you feel short of breath or have any difficulty breathing, especially with normal activities?
+
+Options: [No breathing problems | Mild shortness of breath with activity | Shortness of breath at rest | Wheezing sounds | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No breathing problems
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you seen a doctor for this cough or had any tests done like chest X-ray or blood work?
+
+Options: [No, haven't seen anyone | Yes, saw doctor but no tests | Yes, had chest X-ray | Yes, had blood work | Yes, had other tests | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No, haven't seen anyone
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently working or spending time in any dusty, chemical, or irritating environments?
+
+Options: [No exposure to irritants | Work involves dust or chemicals | Recently painted or renovated home | Around strong cleaning products | Other environmental exposure | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No exposure to irritants
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any family history of lung problems, asthma, or chronic cough conditions?
+
+Options: [No family history | Family history of asthma | Family history of COPD | Family history of lung cancer | Family history of chronic cough | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No family history
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How much clear mucus are you bringing up - is it just a little bit or quite a lot each time you cough?
+
+Options: [Just a little bit | Moderate amount | Quite a lot | Varies throughout the day | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Just a little bit
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your cough or how you've been feeling overall?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Self Care
+
+WhereToSeekCare:
+Monitor at home with supportive care measures
+
+LikelyCause:
+Post-viral cough following upper respiratory infection
+
+KeyActions:
+• Use honey (1-2 teaspoons) to soothe throat and reduce cough • Stay well hydrated with warm liquids like herbal tea • Consider dextromethorphan (Robitussin DM) 15mg every 4 hours if cough disrupts sleep • Use a humidifier or breathe steam from hot shower • Get adequate rest to support recovery
+
+WhatToExpect:
+Post-viral coughs typically resolve within 2-3 weeks but can persist up to 8 weeks. Your cough should gradually decrease in frequency and intensity.
+
+Warnings:
+Seek medical care if you develop fever, shortness of breath, chest pain, blood in mucus, or if cough worsens significantly or persists beyond 8 weeks.
+
+Epilogue:
+I'll check in with you in a few days to see how your recovery is progressing - ensure notifications are enabled for helpful reminders. Any questions about managing your cough?

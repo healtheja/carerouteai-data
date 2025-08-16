@@ -1,0 +1,216 @@
+👤 User:
+nasal congestion for 15 days
+
+------------------------------------------------------------
+📱 CareRoute AI:
+I'll help you with your nasal congestion. Since this has been going on for 15 days, I need to gather some details to provide the best care advice. How old are you?
+
+------------------------------------------------------------
+👤 User:
+35
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you male or female?
+
+Options: [Male | Female | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Female
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like diabetes, high blood pressure, asthma, or allergies?
+
+Options: [Diabetes | High blood pressure | Asthma | Seasonal allergies | Food allergies | Heart disease | Thyroid problems | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently taking any medications, including over-the-counter drugs or supplements?
+
+------------------------------------------------------------
+👤 User:
+otc decongestant, don’t remember the name
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long have you been using the OTC decongestant and is it helping at all?
+
+------------------------------------------------------------
+👤 User:
+little bit, for 4 days
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any drug allergies or reactions to medications?
+
+Options: [No known allergies | Penicillin | Sulfa drugs | NSAIDs (like ibuprofen) | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No known allergies
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke, drink alcohol, or use any recreational drugs?
+
+Options: [I don't use any substances | Cigarettes | Vaping/e-cigarettes | Alcohol occasionally | Alcohol regularly | Marijuana | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: I don't use any substances
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Besides nasal congestion, do you have any other symptoms?
+
+Options: [Runny nose | Sneezing | Facial pain/pressure | Headache | Cough | Sore throat | Fever | Post-nasal drip | Loss of smell/taste | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Facial pain/pressure, Runny nose
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What color is your nasal discharge - clear, yellow, green, or bloody?
+
+Options: [Clear | Yellow | Green | Bloody | Mixed colors | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Green
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Where exactly do you feel the facial pain or pressure - around your eyes, cheeks, forehead, or jaw area?
+
+Options: [Around eyes | Cheeks | Forehead | Upper jaw/teeth | Lower jaw | Bridge of nose | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Cheeks
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had a fever during these 15 days? If yes, what was your highest temperature?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you seen a doctor for this congestion or had any tests done like X-rays or CT scans?
+
+------------------------------------------------------------
+👤 User:
+none yet
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Did this congestion start suddenly or gradually? Was there anything that might have triggered it like a cold, allergies, or exposure to irritants?
+
+------------------------------------------------------------
+👤 User:
+I don’t recollect any I think it developed gradually
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is the congestion worse at certain times of day, or does it get better or worse with position changes like lying down?
+
+------------------------------------------------------------
+👤 User:
+worse in the mornings definitely
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you noticed any changes in your sense of smell or taste during these 15 days?
+
+Options: [No changes | Completely lost smell/taste | Reduced smell/taste | Smell/taste comes and goes | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No changes
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any dental pain, especially in your upper teeth, or recent dental work?
+
+Options: [No dental issues | Upper tooth pain | Recent dental work | Dental infection | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No dental issues
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been around anyone with similar symptoms, or do you work in an environment with dust, chemicals, or other irritants?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any history of nasal polyps, deviated septum, or previous sinus infections?
+
+Options: [No history of sinus problems | Previous sinus infections | Nasal polyps | Deviated septum | Broken nose in past | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No history of sinus problems
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you tried any home remedies like saline rinses, steam inhalation, or warm compresses? If yes, did they help?
+
+------------------------------------------------------------
+👤 User:
+none yet
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently pregnant or could you be pregnant?
+
+Options: [No | Yes | Possibly | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else about your condition that I should know - any other symptoms, concerns, or details that might be relevant?
+
+------------------------------------------------------------
+👤 User:
+nothing
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Doctor Visit
+
+WhereToSeekCare:
+Primary care doctor or ENT specialist within 3-5 days
+
+LikelyCause:
+Bacterial sinusitis (sinus infection)
+
+KeyActions:
+• Stop OTC decongestant after 3 days total use to avoid rebound congestion • Use saline nasal rinses 2-3 times daily • Apply warm compresses to cheeks for 10-15 minutes • Take ibuprofen (Advil) 400mg every 6-8 hours for pain and inflammation • Stay well hydrated with warm fluids
+
+WhatToExpectAtDoctorVisit:
+Your doctor will examine your nose and sinuses, possibly using a nasal scope. They may order a CT scan if symptoms persist. Expect prescription antibiotics like amoxicillin-clavulanate for 7-10 days, plus stronger decongestants or nasal steroid sprays.
+
+Warnings:
+Seek immediate care if you develop severe headache, vision changes, high fever, neck stiffness, or swelling around your eyes - these could indicate serious complications.
+
+Epilogue:
+Would you like me to help locate a doctor or ENT specialist in your area?

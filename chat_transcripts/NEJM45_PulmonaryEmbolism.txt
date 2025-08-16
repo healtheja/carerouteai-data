@@ -1,0 +1,56 @@
+👤 User:
+I’ve been experiencing shortness of breath all of a sudden
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long have you been experiencing this shortness of breath?
+
+------------------------------------------------------------
+👤 User:
+for 30 minutes
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you experiencing any chest pain, chest tightness, or pressure along with the shortness of breath?
+
+Options: [Yes - chest pain | Yes - chest tightness or pressure | Yes - both pain and tightness | No chest symptoms | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Other - I'll specify. Other - I'll specify: chest pain that worsens on deep breathing
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you experiencing any of these symptoms right now?
+
+Options: [Dizziness or lightheadedness | Rapid or irregular heartbeat | Sweating | Nausea or vomiting | Coughing up blood | Leg pain or swelling | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Leg pain or swelling
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Given your symptoms - sudden shortness of breath, chest pain that worsens with breathing, and leg pain/swelling - you need emergency medical care immediately. These symptoms together suggest a possible pulmonary embolism (blood clot in the lung), which is a life-threatening condition requiring urgent treatment.
+
+------------------------------------------------------------
+👤 User:
+ok
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Emergency Care
+WhereToSeekCare:
+Emergency Room immediately - call 911 or have someone drive you
+LikelyCause:
+Possible pulmonary embolism (blood clot in lung)
+KeyActions:
+• Call 911 or go to ER immediately - do not drive yourself • Sit upright to help breathing • Avoid walking or moving around unnecessarily • Tell ER staff about sudden breathing problems and leg symptoms • Bring list of any medications you take
+WhatToExpectAtER:
+• Blood tests (D-dimer, troponin) and oxygen level check • CT scan of chest to look for blood clots • Ultrasound of legs to check for clots • IV line placement for potential blood thinners • Chest X-ray and EKG • If clot confirmed, immediate blood thinner treatment
+Warnings:
+• Seek immediate care if breathing becomes more difficult • Call 911 if you feel faint or chest pain worsens • Do not wait - pulmonary embolism can be fatal without treatment
+Epilogue:
+This is a medical emergency. Would you like me to help locate the nearest emergency room?

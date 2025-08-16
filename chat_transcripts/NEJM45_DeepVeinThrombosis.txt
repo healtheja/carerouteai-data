@@ -1,0 +1,208 @@
+👤 User:
+pain and swelling in my leg. 
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long have you had pain and swelling in your leg?
+
+------------------------------------------------------------
+👤 User:
+for 5 days
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Which leg is affected and where exactly is the pain and swelling located?
+
+------------------------------------------------------------
+👤 User:
+right calf
+
+------------------------------------------------------------
+📱 CareRoute AI:
+On a scale of 1-10, how would you rate the pain intensity, and has it gotten worse, better, or stayed the same over the 5 days?
+
+------------------------------------------------------------
+👤 User:
+6, it is getting worse
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Did anything trigger this - like an injury, long travel, surgery, or being bedridden recently?
+
+------------------------------------------------------------
+👤 User:
+I was hospitalized recently for pneumonia and after coming home I was taking it easy mostly on bed. I think when I started to mobilize and walk, my leg started to swell
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How many days were you hospitalized and when did you get discharged?
+
+------------------------------------------------------------
+👤 User:
+I was hospitalized for 5 days and a week ago I was discharged
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What is your age?
+
+------------------------------------------------------------
+👤 User:
+65
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you male or female?
+
+Options: [Male | Female]
+
+------------------------------------------------------------
+👤 User:
+Selected: Female
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like diabetes, high blood pressure, heart disease, or blood clotting disorders?
+
+Options: [Diabetes | High blood pressure | Heart disease | Blood clotting disorders | Kidney disease | Cancer | None of these]
+
+------------------------------------------------------------
+👤 User:
+Selected: Heart disease, High blood pressure
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What medications are you currently taking, including any prescribed during your hospitalization?
+
+------------------------------------------------------------
+👤 User:
+many meds, I don’t remember the names
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any allergies to medications?
+
+Options: [No known allergies | Yes - I'll specify which ones]
+
+------------------------------------------------------------
+👤 User:
+Selected: No known allergies
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you experiencing any shortness of breath, chest pain, or difficulty breathing?
+
+Options: [No breathing problems | Yes - shortness of breath | Yes - chest pain | Yes - both shortness of breath and chest pain]
+
+------------------------------------------------------------
+👤 User:
+Selected: No breathing problems
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is your right calf warm to touch, red, or tender when you press on it?
+
+Options: [Warm to touch | Red/discolored | Tender when pressed | None of these]
+
+------------------------------------------------------------
+👤 User:
+Selected: Tender when pressed
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any other symptoms like fever, nausea, dizziness, or unusual fatigue?
+
+Options: [Fever | Nausea | Dizziness | Unusual fatigue | None of these]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been able to walk normally, or is the leg pain limiting your mobility?
+
+Options: [Walking normally | Some difficulty walking | Significant difficulty walking | Unable to walk on it]
+
+------------------------------------------------------------
+👤 User:
+Selected: Significant difficulty walking
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you seen a doctor about this leg swelling or had any tests done since your discharge?
+
+Options: [No, haven't seen anyone yet | Yes - saw doctor but no tests | Yes - had tests done]
+
+------------------------------------------------------------
+👤 User:
+Selected: No, haven't seen anyone yet
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke or have you smoked in the past?
+
+Options: [Never smoked | Former smoker | Current smoker]
+
+------------------------------------------------------------
+👤 User:
+Selected: Current smoker
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you taking any birth control pills, hormone replacement therapy, or blood thinners?
+
+Options: [Birth control pills | Hormone replacement therapy | Blood thinners | None of these]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Can you measure the circumference of both your calves at the widest point to compare the swelling?
+
+------------------------------------------------------------
+👤 User:
+right one is 4 cm greater than the left
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does the pain get worse when you flex your foot upward (pull your toes toward your shin)?
+
+Options: [Yes, much worse | Yes, somewhat worse | No change | Makes it better]
+
+------------------------------------------------------------
+👤 User:
+Selected: Yes, much worse
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your condition or symptoms?
+
+------------------------------------------------------------
+👤 User:
+nothing
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Emergency Care
+
+WhereToSeekCare:
+Emergency Room immediately for urgent evaluation
+
+LikelyCause:
+Deep vein thrombosis (blood clot)
+
+KeyActions:
+• Go to ER now - do not delay • Avoid massaging or rubbing the leg • Stay hydrated while waiting • Bring list of current medications if possible
+
+WhatToExpectAtER:
+• Blood tests (D-dimer, CBC) to check clotting • Ultrasound of your leg to visualize blood flow • Possible CT scan if pulmonary embolism suspected • Blood thinning medication if clot confirmed • Admission may be needed for monitoring
+
+Warnings:
+Seek immediate care if you develop chest pain, shortness of breath, or coughing up blood - these could indicate the clot has traveled to your lungs
+
+Epilogue:
+Would you like me to help locate the nearest emergency room for you?

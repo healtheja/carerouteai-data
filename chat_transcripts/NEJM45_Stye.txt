@@ -1,0 +1,222 @@
+👤 User:
+My right lower eyelid is swollen, red, and tender since yesterday.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How old are you?
+
+------------------------------------------------------------
+👤 User:
+30
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you male or female?
+
+Options: [Male | Female]
+
+------------------------------------------------------------
+👤 User:
+Male
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like diabetes, high blood pressure, or others?
+
+Options: [Diabetes | High blood pressure | Heart disease | Asthma | Allergies | Autoimmune condition | Other - I'll specify | None]
+
+------------------------------------------------------------
+👤 User:
+None
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently taking any medications or have you taken any in the past week?
+
+Options: [Yes - I'll specify | No medications]
+
+------------------------------------------------------------
+👤 User:
+No medications
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke, drink alcohol, or use any recreational drugs?
+
+Options: [Smoking | Alcohol | Recreational drugs | None of these]
+
+------------------------------------------------------------
+👤 User:
+None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Besides the swollen, red, tender right lower eyelid, do you have any other symptoms?
+
+Options: [Eye pain or discomfort | Vision changes | Eye discharge | Fever or chills | Headache | Other symptoms - I'll specify | No other symptoms]
+
+------------------------------------------------------------
+👤 User:
+No other symptoms
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you seen a doctor for this eyelid swelling or had any tests done?
+
+Options: [Yes - I'll specify | No]
+
+------------------------------------------------------------
+👤 User:
+No
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is the swelling localized to one small area or does it involve the entire lower eyelid?
+
+Options: [Small localized area | Entire lower eyelid | Not sure]
+
+------------------------------------------------------------
+👤 User:
+Small localized area
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Can you feel a small bump or lump in the swollen area?
+
+Options: [Yes, there's a small bump | No bump felt | Not sure]
+
+------------------------------------------------------------
+👤 User:
+Not sure
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does the swelling seem to be getting worse, staying the same, or improving since yesterday?
+
+Options: [Getting worse | Staying the same | Improving | Not sure]
+
+------------------------------------------------------------
+👤 User:
+Staying the same
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any recent eye injuries, rubbing your eyes frequently, or gotten anything in your eye?
+
+Options: [Eye injury | Frequent eye rubbing | Something got in eye | Recent eye makeup use | None of these]
+
+------------------------------------------------------------
+👤 User:
+None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you wear contact lenses or have you recently changed any eye makeup or skincare products?
+
+Options: [Wear contact lenses | Changed eye makeup recently | Changed skincare products recently | None of these]
+
+------------------------------------------------------------
+👤 User:
+None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had similar eyelid swelling or styes before?
+
+Options: [Yes, multiple times | Yes, once or twice | No, this is the first time]
+
+------------------------------------------------------------
+👤 User:
+No, this is the first time
+
+------------------------------------------------------------
+📱 CareRoute AI:
+On a scale of 1-10, how would you rate the tenderness when you touch the swollen area?
+
+Options: [1-3 (mild) | 4-6 (moderate) | 7-10 (severe)]
+
+------------------------------------------------------------
+👤 User:
+1-3 (mild)
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is your vision in the affected eye normal or have you noticed any changes?
+
+Options: [Vision is normal | Slightly blurry | Significantly blurry | Other vision changes - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Vision is normal
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any allergies to foods, medications, or environmental factors?
+
+Options: [Food allergies | Medication allergies | Environmental allergies (pollen, dust, etc.) | No known allergies]
+
+------------------------------------------------------------
+👤 User:
+No known allergies
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been under more stress than usual or had any changes in sleep patterns recently?
+
+Options: [More stress than usual | Sleep changes | Both stress and sleep changes | Neither]
+
+------------------------------------------------------------
+👤 User:
+Neither
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been around anyone with pink eye or other eye infections recently?
+
+Options: [Yes | No | Not sure]
+
+------------------------------------------------------------
+👤 User:
+Not sure
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any family history of eye problems or autoimmune conditions?
+
+Options: [Eye problems in family | Autoimmune conditions in family | Both | No family history of these]
+
+------------------------------------------------------------
+👤 User:
+No family history of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your condition or any other concerns you have?
+
+------------------------------------------------------------
+👤 User:
+No, I think I’ve told you everything relevant
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Self Care
+
+WhereToSeekCare:
+Monitor at home, see doctor if worsens
+
+LikelyCause:
+Hordeolum (stye) - blocked eyelid gland
+
+KeyActions:
+• Apply warm compresses 10-15 minutes, 3-4 times daily • Keep hands clean, avoid touching the area • Use preservative-free artificial tears if needed • Take ibuprofen 400mg every 6-8 hours for inflammation
+
+WhatToExpectWithSelfCare:
+Most styes resolve within 7-10 days with warm compresses. The bump may come to a head and drain naturally, which is normal healing.
+
+Warnings:
+See a doctor if: swelling spreads to entire eyelid, vision changes, fever develops, or no improvement after 1 week
+
+Epilogue:
+Need help finding an eye doctor if this doesn't improve? I can locate one near you.

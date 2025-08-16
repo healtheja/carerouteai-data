@@ -1,0 +1,164 @@
+👤 User:
+My 18 month baby has runny nose, cough and congestion.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long has your baby been experiencing these symptoms?
+
+------------------------------------------------------------
+👤 User:
+for a week and overnight she developed fever
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's her current temperature and how are you measuring it?
+
+------------------------------------------------------------
+👤 User:
+sorry I didn’t measure
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Please take her temperature now using a rectal thermometer if you have one, or under her arm. What's the reading?
+
+------------------------------------------------------------
+👤 User:
+I don’t have one
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How does she feel to touch - is she hot, warm, or normal? Also, is she eating, drinking, and playing normally?
+
+------------------------------------------------------------
+👤 User:
+hot, she is being very irritable and sleeping restlessly and not eating well
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is she having any difficulty breathing, breathing fast, or making any unusual sounds when breathing?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is she drinking fluids normally and having wet diapers? Any vomiting or diarrhea?
+
+------------------------------------------------------------
+👤 User:
+no vomiting or diarrhea. drinking fluids a bit less and normal wet diapers
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does she have any chronic health conditions or take any medications regularly?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has she been around other sick children or adults recently, or been to daycare?
+
+------------------------------------------------------------
+👤 User:
+yes, she attends day care
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Any rash on her body, ear pulling/tugging, or changes in her cry?
+
+------------------------------------------------------------
+👤 User:
+No rash but she appears very irritable
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has she had any seizures, unusual jerking movements, or periods where she seemed unresponsive?
+
+------------------------------------------------------------
+👤 User:
+no seizures and she is responsive as usual but irritable
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What color is the mucus from her nose - clear, yellow, or green?
+
+------------------------------------------------------------
+👤 User:
+clear
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is her cough dry or does it sound like there's mucus? Any wheezing sounds?
+
+------------------------------------------------------------
+👤 User:
+no wheezing, she sounds like she is congested and I didn’t notice any mucus
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has she received all her routine vaccinations for her age?
+
+------------------------------------------------------------
+👤 User:
+yes
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Any family history of asthma, allergies, or frequent respiratory infections?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you given her any medications for the fever or symptoms?
+
+------------------------------------------------------------
+👤 User:
+Tylenol is not helping
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How much Tylenol did you give her and when was the last dose?
+
+------------------------------------------------------------
+👤 User:
+4 hours ago, typical dose for her age and weight
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else about her condition or behavior that concerns you or seems different from her usual self?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Urgent Care
+
+WhereToSeekCare:
+Urgent care clinic or same-day pediatrician visit
+
+LikelyCause:
+Viral upper respiratory infection with fever
+
+KeyActions:
+• Give alternating acetaminophen and ibuprofen every 3-4 hours for fever • Use saline drops and suction bulb for congestion • Offer frequent small amounts of fluids • Run cool mist humidifier in room • Monitor for worsening breathing or lethargy
+
+WhatToExpectAtUrgentCare:
+Doctor will check ears, throat, lungs and may test for RSV or flu. Expect supportive care recommendations and fever management guidance. Antibiotics unlikely unless bacterial infection suspected.
+
+Warnings:
+Seek emergency care immediately if she has difficulty breathing, becomes lethargic/unresponsive, stops eating/drinking entirely, or fever persists despite proper medication dosing.
+
+Epilogue:
+Would you like me to help locate an urgent care clinic near you?
+
+Options: [Yes, find urgent care near me | No, I have other questions]

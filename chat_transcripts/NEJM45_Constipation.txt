@@ -1,0 +1,176 @@
+👤 User:
+My 5 month old baby passes stools every other day and stools are hard. 
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long has your baby been having hard stools every other day?
+
+------------------------------------------------------------
+👤 User:
+recently a few weeks ago he has been weaned from breast feeding to Cows’ milk formulas
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Which specific formula brand and type are you using now?
+
+------------------------------------------------------------
+👤 User:
+Similac
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How do you prepare the Similac - what's the ratio of powder to water you're using?
+
+------------------------------------------------------------
+👤 User:
+I follow the instructions on the label, one leveled scoop for every 2 ounces
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does your baby seem uncomfortable or strain when trying to pass stools?
+
+------------------------------------------------------------
+👤 User:
+yes, he cries for hours before passing the stools
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are there any streaks of blood in the stools or around his bottom?
+
+------------------------------------------------------------
+👤 User:
+occasionally, yes
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How much formula is your baby drinking per day - how many ounces total?
+
+------------------------------------------------------------
+👤 User:
+32 ounces total per day
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is your baby eating any solid foods yet, or just formula?
+
+------------------------------------------------------------
+👤 User:
+just formula
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has your baby been vomiting or spitting up more than usual since the formula change?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is your baby's belly hard or swollen, and does he seem to have less appetite than before?
+
+------------------------------------------------------------
+👤 User:
+he had been reluctant to drink the new formula initially. He is now feeding normally. No belly is not swollen
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does your baby have any other symptoms like fever, excessive fussiness, or changes in sleep patterns?
+
+Options: [Fever | More fussy than usual | Sleep problems | Seems lethargic | None of these]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you giving your baby any water between feedings or any other liquids besides formula?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has your baby had any recent illnesses, antibiotics, or other medications?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does your baby have any known allergies or has anyone in your family had milk protein allergies or lactose intolerance?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What type of water do you use to mix the formula - tap water, bottled water, or well water?
+
+Options: [Tap water | Bottled water | Well water]
+
+------------------------------------------------------------
+👤 User:
+Selected: Bottled water
+
+------------------------------------------------------------
+📱 CareRoute AI:
+When your baby does pass stools, what do they look like - are they formed like small pellets, or more like paste?
+
+------------------------------------------------------------
+👤 User:
+hard
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Before the formula change, how often was your baby having bowel movements when breastfeeding?
+
+------------------------------------------------------------
+👤 User:
+everyday
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you tried any remedies so far for the constipation, like bicycle leg movements or tummy massage?
+
+------------------------------------------------------------
+👤 User:
+yes both
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Did the bicycle movements and tummy massage provide any relief, even temporarily?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else about your baby's condition or feeding that you think I should know?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Doctor Visit
+WhereToSeekCare:
+Pediatrician within 2-3 days
+LikelyCause:
+Formula-induced constipation with possible milk protein sensitivity
+KeyActions:
+• Switch to gentle/sensitive formula (Similac Sensitive or Pro-Sensitive) • Offer 1-2 oz water daily between feeds • Continue tummy massage and bicycle legs 3x daily • Track bowel movements and formula tolerance
+WhatToExpectAtPediatricianVisit:
+Doctor will examine baby's abdomen, discuss formula options, may recommend specific gentle formulas or probiotics, and provide guidance on introducing small amounts of water or diluted prune juice if needed
+Warnings:
+Seek immediate care if baby develops fever, vomiting, severe abdominal distension, or goes more than 4 days without a bowel movement
+Epilogue:
+Would you like me to help locate pediatricians in your area?

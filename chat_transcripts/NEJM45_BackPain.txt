@@ -1,0 +1,224 @@
+👤 User:
+Sudden back pain after lifting boxes. 
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long have you been experiencing this back pain?
+
+------------------------------------------------------------
+👤 User:
+for 2 weeks
+
+------------------------------------------------------------
+📱 CareRoute AI:
+On a scale of 1-10, how would you rate your current back pain?
+
+Options: [1-2 (mild) | 3-4 (mild-moderate) | 5-6 (moderate) | 7-8 (severe) | 9-10 (excruciating)]
+
+------------------------------------------------------------
+👤 User:
+Selected: 5-6 (moderate)
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Where exactly is the pain located - lower back, middle back, or upper back?
+
+Options: [Lower back | Middle back | Upper back | Multiple areas - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Lower back
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does the pain radiate or shoot down into your legs, buttocks, or anywhere else?
+
+Options: [No radiation - stays in back | Yes, shoots down one leg | Yes, shoots down both legs | Yes, into buttocks only | Other pattern - I'll describe]
+
+------------------------------------------------------------
+👤 User:
+Selected: No radiation - stays in back
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What makes your back pain worse - bending forward, sitting, standing, walking, or lying down?
+
+Options: [Bending forward | Sitting | Standing | Walking | Lying down | Twisting movements | None of these]
+
+------------------------------------------------------------
+👤 User:
+Selected: Bending forward, Walking, Standing, Sitting
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What helps relieve your back pain - rest, heat, ice, certain positions, or over-the-counter medications?
+
+Options: [Rest/lying down | Heat application | Ice application | Certain positions - I'll specify | OTC pain medications | Stretching | Nothing helps much]
+
+------------------------------------------------------------
+👤 User:
+Selected: Rest/lying down
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What is your age?
+
+------------------------------------------------------------
+👤 User:
+38
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like diabetes, arthritis, or osteoporosis?
+
+Options: [Diabetes | Arthritis | Osteoporosis | High blood pressure | Heart disease | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently taking any medications, including over-the-counter pain relievers?
+
+------------------------------------------------------------
+👤 User:
+ibuprofen 400 mg twice a day for the past 3 days
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any known allergies to medications?
+
+Options: [No known allergies | Yes - I'll specify which ones]
+
+------------------------------------------------------------
+👤 User:
+Selected: No known allergies
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you experienced any numbness, tingling, or weakness in your legs or feet?
+
+Options: [No neurological symptoms | Yes, numbness/tingling | Yes, weakness | Yes, both numbness and weakness]
+
+------------------------------------------------------------
+👤 User:
+Selected: No neurological symptoms
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any fever, chills, or unexplained weight loss since your back pain started?
+
+Options: [No systemic symptoms | Yes, fever/chills | Yes, weight loss | Yes, both fever and weight loss]
+
+------------------------------------------------------------
+👤 User:
+Selected: No systemic symptoms
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any problems with bowel or bladder control since your back pain started?
+
+Options: [No bowel/bladder issues | Yes, bowel control problems | Yes, bladder control problems | Yes, both bowel and bladder issues]
+
+------------------------------------------------------------
+👤 User:
+Selected: No bowel/bladder issues
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any other symptoms or concerns I should know about - muscle spasms, stiffness, sleep problems, or anything else?
+
+Options: [Muscle spasms | Morning stiffness | Sleep problems due to pain | Difficulty with daily activities | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Muscle spasms
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you seen a doctor for this back pain or had any tests like X-rays or MRI done?
+
+Options: [No, haven't seen a doctor yet | Yes, saw doctor but no tests | Yes, had X-rays | Yes, had MRI | Yes, had other tests - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No, haven't seen a doctor yet
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke, drink alcohol regularly, or use any recreational substances?
+
+Options: [I don't use any substances | I smoke cigarettes | I drink alcohol regularly | I use recreational drugs | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: I don't use any substances
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How would you describe your typical physical activity level - sedentary, lightly active, moderately active, or very active?
+
+Options: [Sedentary (desk job, little exercise) | Lightly active (some walking, light exercise) | Moderately active (regular exercise 2-3x/week) | Very active (intense exercise 4+ times/week)]
+
+------------------------------------------------------------
+👤 User:
+Selected: Lightly active (some walking, light exercise)
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Can you describe exactly how you were lifting the boxes - were they heavy, did you bend at the waist, twist while lifting, or lift above shoulder height?
+
+------------------------------------------------------------
+👤 User:
+heavy boxes at work
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any previous episodes of back pain or back injuries in the past?
+
+Options: [No previous back problems | Yes, occasional minor back pain | Yes, similar episode before | Yes, chronic back problems | Other back history - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Yes, similar episode before
+
+------------------------------------------------------------
+📱 CareRoute AI:
+When was your previous similar back pain episode and how long did it take to resolve?
+
+------------------------------------------------------------
+👤 User:
+with in a couple of weeks. It was resolved without seeing a doctor
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your current condition, work situation, or overall health that might be relevant?
+
+------------------------------------------------------------
+👤 User:
+I’ve pretty much told you everything
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Self Care
+
+WhereToSeekCare:
+Home management with doctor visit if no improvement in 1-2 weeks
+
+LikelyCause:
+Mechanical lower back strain from heavy lifting
+
+KeyActions:
+• Continue ibuprofen 400mg twice daily with food for 5-7 days • Apply ice 15-20 minutes every 2-3 hours for first 48 hours • Switch to heat after 48 hours - heating pad or warm bath • Gentle walking as tolerated, avoid bed rest • Light stretching when pain allows
+
+ActivityModification:
+• Avoid heavy lifting, bending, and twisting for 2-3 weeks • Use proper lifting technique when you return to work • Consider asking for lighter duties temporarily • Sleep on side with pillow between knees
+
+WhenToSeekCare:
+• Pain worsens significantly or becomes constant • Develops leg numbness, tingling, or weakness • Bowel or bladder control problems • No improvement after 2 weeks of conservative care
+
+Epilogue:
+Need help finding a doctor if symptoms don't improve, or have other questions?

@@ -1,0 +1,184 @@
+👤 User:
+I’ve been experiencing fever with shivering
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long have you been experiencing the fever and shivering?
+
+------------------------------------------------------------
+👤 User:
+for 5 days
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your current temperature, and what's the highest temperature you've recorded during these 5 days?
+
+------------------------------------------------------------
+👤 User:
+I didn’t record my highest temp but my current temperature is 100.4
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your age?
+
+------------------------------------------------------------
+👤 User:
+28
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you male or female?
+
+Options: [Male | Female | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Male
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any other symptoms besides fever and shivering?
+
+Options: [Headache | Body aches/muscle pain | Cough | Sore throat | Nausea/vomiting | Diarrhea | Fatigue/weakness | Loss of appetite | Other - I'll specify | None of these]
+
+------------------------------------------------------------
+👤 User:
+Selected: Diarrhea, Fatigue/weakness
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How many bowel movements are you having per day, and what's the consistency like?
+
+------------------------------------------------------------
+👤 User:
+3-4 times they look like normal but more soft stools
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you noticed any blood in your stool or black/tarry stools?
+
+Options: [Yes - blood | Yes - black/tarry | Both blood and black/tarry | No]
+
+------------------------------------------------------------
+👤 User:
+Selected: No
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like diabetes, heart disease, or immune system problems?
+
+Options: [Diabetes | Heart disease | High blood pressure | Asthma | Kidney disease | Liver disease | Immune system disorder | Cancer | Other - I'll specify | None of these]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently taking any medications, including over-the-counter drugs or supplements?
+
+------------------------------------------------------------
+👤 User:
+taking Tylenol, but it’s not helping
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How much Tylenol are you taking and how often?
+
+------------------------------------------------------------
+👤 User:
+extra strength every 4 hours
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you traveled anywhere in the past month or been exposed to anyone who was sick?
+
+------------------------------------------------------------
+👤 User:
+not in the past month, I’ve travelled to Central America, stayed there for 3 months, returned 8 weeks ago
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Which countries in Central America did you visit, and did you have any stomach illness or diarrhea while you were there?
+
+------------------------------------------------------------
+👤 User:
+many, no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Did you take any malaria prevention medication while traveling, and have you had any insect bites or exposure to animals during your trip?
+
+------------------------------------------------------------
+👤 User:
+I discontinued my malaria prophylaxis when I was there due to nausea and I remember getting bitten by mosquitoes on several occasions
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke, drink alcohol, or use any recreational drugs?
+
+Options: [Smoke cigarettes | Drink alcohol regularly | Use recreational drugs | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you seen a doctor for these symptoms or had any blood tests done?
+
+------------------------------------------------------------
+👤 User:
+none yet
+
+------------------------------------------------------------
+📱 CareRoute AI: 
+Have you noticed any skin rash, yellowing of your eyes or skin, or dark-colored urine?
+
+Options: [Skin rash | Yellowing of eyes | Yellowing of skin | Dark urine | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any abdominal pain, and if so, where is it located?
+
+------------------------------------------------------------
+👤 User:
+not pain but discomfort due to diarrhea
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any night sweats, chills that make you shake uncontrollably, or periods where you feel completely normal between fever episodes?
+
+------------------------------------------------------------
+👤 User:
+yes absolutely
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any allergies to medications?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Emergency Care
+WhereToSeekCare:
+Emergency room immediately for urgent blood tests and treatment
+LikelyCause:
+Malaria infection from Central America travel
+KeyActions:
+• Go to ER immediately - don't delay • Bring passport showing travel dates • Tell ER about Central America travel and discontinued malaria prevention • Stay hydrated while waiting for care
+WhatToExpectAtER:
+Blood tests for malaria parasites, complete blood count, liver function tests. If malaria confirmed, immediate IV antimalarial treatment like artesunate. Expect several hours for test results and treatment initiation.
+Warnings:
+Malaria can rapidly worsen to severe complications including organ failure. Seek immediate care if you develop confusion, difficulty breathing, or severe weakness.
+Epilogue:
+Would you like me to help locate the nearest emergency room?

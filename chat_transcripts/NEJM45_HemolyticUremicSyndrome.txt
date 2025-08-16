@@ -1,0 +1,196 @@
+👤 User:
+My son has abdominal pain and diarrhea.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long has your son been experiencing the abdominal pain and diarrhea?
+
+------------------------------------------------------------
+👤 User:
+for 7 days
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How old is your son?
+
+------------------------------------------------------------
+👤 User:
+4
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has he had any fever during these 7 days?
+
+Options: [Yes - I'll specify temperature | No fever | Not sure - haven't checked]
+
+------------------------------------------------------------
+👤 User:
+Selected: Yes - I'll specify temperature. Yes - I'll specify temperature: 100.5
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How many times per day is he having diarrhea?
+
+------------------------------------------------------------
+👤 User:
+7-9
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there any blood or mucus in his stool?
+
+Options: [Yes - blood visible | Yes - mucus visible | Yes - both blood and mucus | No blood or mucus | Not sure]
+
+------------------------------------------------------------
+👤 User:
+Selected: Yes - blood visible
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How is his energy level and alertness compared to normal?
+
+Options: [Much less active/sleepy | Somewhat less active | About the same | More fussy than usual]
+
+------------------------------------------------------------
+👤 User:
+Selected: Somewhat less active
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is he drinking fluids normally and keeping them down?
+
+Options: [Yes - drinking and keeping fluids down | Drinking less but keeping it down | Vomiting after drinking | Refusing to drink]
+
+------------------------------------------------------------
+👤 User:
+Selected: Drinking less but keeping it down
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has he been vomiting at all during these 7 days?
+
+Options: [Yes - frequently (multiple times daily) | Yes - occasionally (1-2 times daily) | Yes - just a few times total | No vomiting]
+
+------------------------------------------------------------
+👤 User:
+Selected: Yes - occasionally (1-2 times daily)
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Where exactly is his abdominal pain located?
+
+Options: [Around belly button | Lower right side | Lower left side | Upper abdomen | All over abdomen | He can't point to specific area]
+
+------------------------------------------------------------
+👤 User:
+Selected: All over abdomen
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does he have any chronic health conditions or take any medications regularly?
+
+Options: [No conditions or medications | Yes - I'll specify conditions | Yes - I'll specify medications | Yes - both conditions and medications]
+
+------------------------------------------------------------
+👤 User:
+Selected: No conditions or medications
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has he been around anyone else who's been sick with similar symptoms?
+
+Options: [Yes - family members | Yes - daycare/school contacts | Yes - other contacts | No known sick contacts | Not sure]
+
+------------------------------------------------------------
+👤 User:
+Selected: No known sick contacts
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has he eaten anything unusual or different in the week before symptoms started?
+
+Options: [Yes - new foods | Yes - restaurant/takeout food | Yes - undercooked meat/eggs | Yes - unpasteurized dairy | No unusual foods | Not sure]
+
+------------------------------------------------------------
+👤 User:
+Selected: Yes - new foods. Yes - new foods: he ate hamburger at a local fare 3 days before the symptoms started
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does he have any other symptoms like rash, joint pain, or unusual behavior?
+
+Options: [Skin rash | Joint pain or stiffness | Unusual fussiness/irritability | Difficulty sleeping | Headache complaints | None of these | Other symptoms - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you taken him to see a doctor or had any tests done for these symptoms?
+
+Options: [No - haven't seen doctor yet | Yes - saw doctor, no tests | Yes - had stool tests done | Yes - had blood tests done | Yes - had multiple tests done]
+
+------------------------------------------------------------
+👤 User:
+Selected: No - haven't seen doctor yet
+
+------------------------------------------------------------
+📱 CareRoute AI:
+When he has a bowel movement, does he seem to be in pain or strain a lot?
+
+Options: [Yes - cries or seems very uncomfortable | Yes - strains but not too distressed | No - seems normal during bowel movements | Hard to tell]
+
+------------------------------------------------------------
+👤 User:
+Selected: Yes - strains but not too distressed
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How are his wet diapers or urination - is he peeing normally?
+
+Options: [Yes - normal amount of urine | Less urine than usual | Much less urine than usual | Haven't noticed a change]
+
+------------------------------------------------------------
+👤 User:
+Selected: Less urine than usual
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does his mouth look dry or sticky, and are his eyes sunken in at all?
+
+Options: [Yes - mouth dry and eyes sunken | Yes - mouth dry but eyes normal | Yes - eyes sunken but mouth normal | No - mouth and eyes look normal | Not sure]
+
+------------------------------------------------------------
+👤 User:
+Selected: Yes - mouth dry and eyes sunken
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has he been crying without tears or seems unusually sleepy/hard to wake up?
+
+Options: [Yes - no tears when crying | Yes - unusually sleepy/hard to wake | Yes - both no tears and very sleepy | No - tears normal and alertness okay | Not sure]
+
+------------------------------------------------------------
+👤 User:
+Selected: Yes - both no tears and very sleepy
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Emergency Care
+WhereToSeekCare:
+Emergency room immediately - do not delay
+LikelyCause:
+Bacterial gastroenteritis with severe dehydration
+KeyActions:
+• Go to ER now - your son needs IV fluids • Bring a stool sample if possible • Don't give anti-diarrheal medications • Continue offering small sips of water during transport
+WhatToExpectAtER:
+Blood tests, stool culture, IV fluids for rehydration, possible antibiotics after culture results, monitoring for several hours
+Warnings:
+Severe dehydration in young children can become life-threatening quickly. Signs like no tears, sunken eyes, and excessive sleepiness require immediate medical attention.
+Epilogue:
+Would you like me to help locate the nearest emergency room?
+
+Options: [Yes - help me find nearest ER | No - I know where to go]

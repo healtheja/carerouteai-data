@@ -1,0 +1,230 @@
+👤 User:
+painful urination, and feeling of urgency to urinate
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long have you been experiencing these urinary symptoms?
+
+------------------------------------------------------------
+👤 User:
+for 2 days
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your age and gender?
+
+------------------------------------------------------------
+👤 User:
+26, f
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently pregnant or is there any chance you could be pregnant?
+
+Options: [Yes, I'm pregnant | Possibly - haven't tested yet | No, not pregnant]
+
+------------------------------------------------------------
+👤 User:
+Selected: No, not pregnant
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like diabetes, kidney problems, or autoimmune disorders?
+
+Options: [Diabetes | Kidney problems | Autoimmune disorders | High blood pressure | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently taking any medications, including birth control or over-the-counter drugs?
+
+Options: [Yes - I'll list them | No medications]
+
+------------------------------------------------------------
+👤 User:
+Selected: No medications
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any known allergies to medications or other substances?
+
+Options: [Yes - I'll specify | No known allergies]
+
+------------------------------------------------------------
+👤 User:
+Selected: No known allergies
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke, drink alcohol, or use any recreational drugs?
+
+Options: [Smoke cigarettes | Drink alcohol | Use recreational drugs | None of these]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Besides the pain and urgency, do you have any other urinary symptoms?
+
+Options: [Burning sensation | Blood in urine | Cloudy urine | Strong-smelling urine | Frequent urination | Incomplete emptying | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Frequent urination
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any fever, chills, back pain, or nausea?
+
+Options: [Fever | Chills | Back pain | Nausea | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any recent sexual activity or changes in sexual partners?
+
+Options: [Yes, within past week | Yes, within past month | No recent activity | Prefer not to answer]
+
+------------------------------------------------------------
+👤 User:
+Selected: Yes, within past week
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been drinking plenty of water and urinating regularly, or have you been holding your urine for long periods?
+
+Options: [Drinking plenty of water, urinating regularly | Sometimes hold urine for long periods | Haven't been drinking much water | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Drinking plenty of water, urinating regularly
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you used any new soaps, bubble baths, feminine hygiene products, or detergents recently?
+
+Options: [Yes - new products in past week | Yes - new products in past month | No new products | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No new products
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had urinary tract infections before, and if so, how recently?
+
+Options: [Yes, within past 6 months | Yes, but over 6 months ago | Never had a UTI before | Not sure if I've had one]
+
+------------------------------------------------------------
+👤 User:
+Selected: Never had a UTI before
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you noticed any vaginal discharge, itching, or unusual odor?
+
+Options: [Vaginal discharge | Itching | Unusual odor | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been eating or drinking anything unusual, or have you been more stressed than usual lately?
+
+Options: [Eating spicy or acidic foods | Drinking more caffeine than usual | Been very stressed lately | Nothing unusual | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Nothing unusual
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you seen a doctor for these symptoms or had any tests done like a urine test?
+
+Options: [Yes - saw doctor, had tests | Yes - saw doctor, no tests yet | No - haven't seen anyone yet | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No - haven't seen anyone yet
+
+------------------------------------------------------------
+📱 CareRoute AI:
+On a scale of 1-10, how severe is your pain when urinating?
+
+Options: [1-2 (mild discomfort) | 3-4 (noticeable pain) | 5-6 (moderate pain) | 7-8 (severe pain) | 9-10 (excruciating pain)]
+
+------------------------------------------------------------
+👤 User:
+Selected: 5-6 (moderate pain)
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How often are you urinating compared to normal - approximately how many times per day?
+
+Options: [8-10 times (normal for me) | 12-15 times (more than usual) | 16-20 times (much more than usual) | More than 20 times | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: 12-15 times (more than usual)
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any abdominal pain, pelvic pressure, or pain in your lower back or sides?
+
+Options: [Lower abdominal pain | Pelvic pressure | Lower back pain | Side/flank pain | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you traveled anywhere recently or been exposed to anyone who was sick?
+
+Options: [Recent travel (past month) | Exposed to sick people | Been in hospitals/healthcare facilities | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your condition or any other symptoms you've noticed?
+
+------------------------------------------------------------
+👤 User:
+nothing
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Urgent Care
+
+WhereToSeekCare:
+Urgent care clinic or same-day doctor visit
+
+LikelyCause:
+Urinary tract infection (UTI)
+
+KeyActions:
+• Drink plenty of water to help flush bacteria • Urinate frequently, don't hold it • Wipe front to back after using bathroom • Avoid caffeine, alcohol, spicy foods • Take ibuprofen 400mg every 6-8 hours for pain relief
+
+WhatToExpectAtUrgentCare:
+• Urine sample collection for urinalysis and culture • Possible pelvic exam if symptoms suggest complications • Antibiotic prescription (likely nitrofurantoin or trimethoprim-sulfamethoxazole) • Instructions to complete full antibiotic course even if feeling better
+
+Warnings:
+Seek emergency care immediately if you develop fever, chills, severe back pain, nausea/vomiting, or blood in urine - these may indicate kidney infection
+
+Epilogue:
+Would you like me to help locate an urgent care clinic near you?

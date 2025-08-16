@@ -1,0 +1,166 @@
+👤 User:
+My daughter has fever and sore throat
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long has your daughter had the fever and sore throat?
+
+------------------------------------------------------------
+👤 User:
+for a day
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How old is your daughter?
+
+------------------------------------------------------------
+👤 User:
+7 years
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's her current temperature?
+
+------------------------------------------------------------
+👤 User:
+101
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has she had any difficulty swallowing or is she refusing to eat or drink?
+
+------------------------------------------------------------
+👤 User:
+yea
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is she having any trouble breathing, drooling excessively, or making unusual sounds when breathing?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does she have any other symptoms like headache, stomach pain, rash, or runny nose?
+
+Options: [Headache | Stomach pain | Rash | Runny nose | Cough | Vomiting | Body aches | Other - I'll specify | None of these]
+
+------------------------------------------------------------
+👤 User:
+Selected: Vomiting
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How many times has she vomited and when did it start?
+
+------------------------------------------------------------
+👤 User:
+about the same time, 2 times
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is she able to keep any fluids down now, or does she vomit everything she tries to drink?
+
+------------------------------------------------------------
+👤 User:
+she is able to keep down some
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does your daughter have any chronic health conditions like asthma, diabetes, or heart problems?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is she currently taking any medications or has she taken anything for the fever?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has she been around anyone who was sick recently, or has she been to daycare or school in the past week?
+
+------------------------------------------------------------
+👤 User:
+I’m not sure. yes, she has been to school
+
+------------------------------------------------------------
+📱 CareRoute AI:
+When you look at her throat, do you see any white patches, red spots, or swollen areas?
+
+------------------------------------------------------------
+👤 User:
+red spots
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does she have any swollen glands in her neck that you can feel?
+
+------------------------------------------------------------
+👤 User:
+yes
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How is her energy level - is she playing normally, very tired, or somewhere in between?
+
+Options: [Playing normally | A bit tired but still active | Very tired and lethargic | Extremely weak or unresponsive]
+
+------------------------------------------------------------
+👤 User:
+Selected: A bit tired but still active
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has she had a rapid strep test or seen a doctor for these symptoms yet?
+
+------------------------------------------------------------
+👤 User:
+no one yet
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does she have any known allergies to medications like penicillin or amoxicillin?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your daughter's condition or how she's been feeling?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Doctor Visit
+
+WhereToSeekCare:
+Pediatrician or urgent care clinic within 24 hours
+
+LikelyCause:
+Strep throat (bacterial infection)
+
+KeyActions:
+• Give acetaminophen or ibuprofen for fever and pain relief • Offer small sips of cool liquids frequently • Encourage soft foods like popsicles or soup • Keep her home from school until seen by doctor
+
+WhatToExpectAtDoctorVisit:
+Doctor will examine her throat and likely do a rapid strep test. If positive, she'll get antibiotics like amoxicillin. Symptoms should improve within 24-48 hours of starting treatment.
+
+Warnings:
+Seek emergency care if she develops severe difficulty swallowing, drooling, trouble breathing, or becomes very lethargic
+
+Epilogue:
+Would you like me to help locate a pediatrician or urgent care clinic near you?

@@ -1,0 +1,210 @@
+👤 User:
+I have been experiencing cough and nasal congestion and nasal discharge.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long have you been experiencing the cough and nasal symptoms?
+
+------------------------------------------------------------
+👤 User:
+6 days
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What color is your nasal discharge?
+
+Options: [Clear | Yellow | Green | White | Blood-tinged | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Green
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have a fever? If yes, what's your temperature?
+
+------------------------------------------------------------
+👤 User:
+yes, intermittent highest was 100.8
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you experiencing any facial pain or pressure, especially around your cheeks, forehead, or between your eyes?
+
+Options: [Yes - cheeks | Yes - forehead | Yes - between eyes | Yes - multiple areas | No facial pain | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No facial pain
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What type of cough do you have - dry or are you bringing up mucus/phlegm?
+
+Options: [Dry cough | Coughing up clear mucus | Coughing up yellow mucus | Coughing up green mucus | Mixed - sometimes dry, sometimes with mucus | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Dry cough
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your age and gender?
+
+------------------------------------------------------------
+👤 User:
+56, male
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like diabetes, high blood pressure, heart disease, or asthma?
+
+Options: [Diabetes | High blood pressure | Heart disease | Asthma | COPD | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Other - I'll specify. Other - I'll specify: right knee osteoarthritis
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently taking any medications or supplements?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any known allergies to medications?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke, drink alcohol, or use any recreational drugs?
+
+Options: [Smoke cigarettes | Drink alcohol occasionally | Drink alcohol regularly | Use recreational drugs | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you experiencing any other symptoms like headache, sore throat, body aches, fatigue, or shortness of breath?
+
+Options: [Headache | Sore throat | Body aches | Fatigue | Shortness of breath | Loss of taste/smell | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you seen a doctor for these symptoms or had any tests done?
+
+------------------------------------------------------------
+👤 User:
+not yet
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been around anyone who was sick recently, or have you traveled anywhere in the past 2 weeks?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you tried any over-the-counter medications or home remedies for your symptoms?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are your symptoms getting better, staying the same, or getting worse over the past 6 days?
+
+Options: [Getting better | Staying the same | Getting worse | Mixed - some better, some worse]
+
+------------------------------------------------------------
+👤 User:
+Selected: Staying the same
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any difficulty breathing, chest pain, or wheezing?
+
+Options: [Difficulty breathing | Chest pain | Wheezing | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+On a scale of 1-10, how would you rate the severity of your symptoms overall?
+
+Options: [1-2 (very mild) | 3-4 (mild) | 5-6 (moderate) | 7-8 (severe) | 9-10 (very severe)]
+
+------------------------------------------------------------
+👤 User:
+Selected: 5-6 (moderate)
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you able to sleep well at night, or are your symptoms keeping you awake?
+
+Options: [Sleeping well | Mild sleep disruption | Moderate sleep disruption | Severe sleep disruption - barely sleeping]
+
+------------------------------------------------------------
+👤 User:
+Selected: Sleeping well
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any history of seasonal allergies or sinus problems?
+
+Options: [Yes - seasonal allergies | Yes - chronic sinus problems | Yes - both | No history of either | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No history of either
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your condition or symptoms?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Doctor Visit
+WhereToSeekCare:
+Primary care doctor or urgent care within 2-3 days
+LikelyCause:
+Bacterial sinusitis or upper respiratory infection
+KeyActions:
+• Use saline nasal rinses 2-3 times daily • Take acetaminophen or ibuprofen for fever and discomfort • Stay well hydrated with warm fluids • Use a humidifier or breathe steam from hot shower • Get plenty of rest
+WhatToExpectAtDoctorVisit:
+Your doctor will examine your nose, throat, and listen to your lungs. They may check your sinuses for tenderness. Given your green nasal discharge and persistent fever, they'll likely prescribe antibiotics like amoxicillin or azithromycin. They may also recommend a decongestant or nasal steroid spray.
+Warnings:
+Seek immediate care if you develop severe headache, facial swelling, difficulty breathing, chest pain, or fever above 102°F. These could indicate complications requiring urgent treatment.
+Epilogue:
+Would you like me to help locate a doctor's office or urgent care clinic near you?
+
+------------------------------------------------------------
+👤 User:
+I do not have any facial pain
+
+------------------------------------------------------------
+📱 CareRoute AI:
+<Preamble>I understand you're confirming no facial pain</Preamble><ClarificationReceived>Thank you for confirming - no facial pain is noted in your assessment</ClarificationReceived><YourDiagnosis>Your green nasal discharge with fever for 6 days still points to bacterial sinusitis, even without facial pain. Not all sinus infections cause facial pressure.</YourDiagnosis><YourCareStaysTheSame>## Doctor visit within 2-3 days remains recommended ## Antibiotics will likely be prescribed for the bacterial infection ## Continue the home care measures I outlined</YourCareStaysTheSame><Epilogue>Any other questions about your symptoms or care plan?</Epilogue>

@@ -1,0 +1,223 @@
+👤 User:
+My 14-year-old son's eyes are red and watery, and they were stuck shut this morning. 
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long has your son been experiencing these red, watery eyes with the morning discharge?
+
+------------------------------------------------------------
+👤 User:
+About 3 days. It started in his right eye 3 days ago and the left eye got involved today.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is your son experiencing any eye pain, itching, or burning sensation?
+
+Options: [Pain | Itching | Burning | No discomfort | Multiple symptoms - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+No discomfort
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What color is the discharge from his eyes - clear, yellow, green, or white?
+
+Options: [Clear | Yellow | Green | White | Mixed colors - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Clear
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does your son have any cold symptoms like runny nose, cough, or sore throat?
+
+Options: [Yes - runny nose | Yes - cough | Yes - sore throat | Yes - multiple symptoms | No cold symptoms]
+
+------------------------------------------------------------
+👤 User:
+Yes - multiple symptoms
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Which cold symptoms is he experiencing?
+
+Options: [Runny nose | Stuffy nose | Cough | Sore throat | Sneezing | Fever | Headache | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Other - I'll specify: He’s had some cold-like symptoms recently, but I’m not sure which ones exactly.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has your son had any fever in the past few days?
+
+Options: [Yes - I took his temperature | Yes - he felt warm but didn't measure | No fever | Not sure]
+
+------------------------------------------------------------
+👤 User:
+Not sure
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does your son have any known allergies to medications, foods, or environmental triggers like pollen?
+
+Options: [Yes - medication allergies | Yes - food allergies | Yes - environmental allergies | Yes - multiple types | No known allergies]
+
+------------------------------------------------------------
+👤 User:
+No known allergies
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does your son take any medications regularly or has he taken any medications in the past week?
+
+Options: [Yes - regular medications | Yes - recent medications for illness | Yes - both regular and recent | No medications]
+
+------------------------------------------------------------
+👤 User:
+No medications
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does your son have any ongoing health conditions like asthma, diabetes, or other chronic conditions?
+
+Options: [Yes - asthma | Yes - diabetes | Yes - other condition | Yes - multiple conditions | No chronic conditions]
+
+------------------------------------------------------------
+👤 User:
+No chronic conditions
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has anyone else in your household, at his school, or among his close contacts had similar eye symptoms recently?
+
+Options: [Yes - household member | Yes - classmate/friend | Yes - multiple people | No one else affected | Not sure]
+
+------------------------------------------------------------
+👤 User:
+Yes - multiple people
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Who else has had similar eye symptoms and when did their symptoms start?
+
+------------------------------------------------------------
+👤 User:
+Several kids at his day camp have had similar eye symptoms recently. I’m not sure exactly when their symptoms started.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has your son been rubbing his eyes frequently or touching his face more than usual?
+
+Options: [Yes - rubbing eyes frequently | Yes - touching face more | Yes - both | No change in behavior | Haven't noticed]
+
+------------------------------------------------------------
+👤 User:
+Haven't noticed
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does your son have any other symptoms like body aches, fatigue, or feeling generally unwell?
+
+Options: [Body aches | Fatigue/tiredness | Generally feeling unwell | Loss of appetite | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has your son's vision been affected - any blurriness, sensitivity to light, or difficulty seeing?
+
+Options: [Blurry vision | Light sensitivity | Difficulty seeing clearly | None of these | Other vision changes - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has your son been swimming recently or had any exposure to chemicals, smoke, or irritants?
+
+Options: [Swimming - pool | Swimming - lake/ocean | Chemical exposure | Smoke exposure | None of these | Other irritants - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are there any swollen lymph nodes around his ears or neck that you can feel?
+
+Options: [Yes - around ears | Yes - in neck | Yes - both areas | No swollen nodes | Haven't checked]
+
+------------------------------------------------------------
+👤 User:
+Yes - around ears
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has your son had any ear pain, hearing changes, or ear discharge?
+
+Options: [Ear pain | Hearing changes | Ear discharge | None of these | Other ear symptoms - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has your son been to a doctor for these eye symptoms or had any eye drops or treatments tried?
+
+Options: [Yes - saw doctor | Yes - tried eye drops | Yes - both | No treatment yet | Other treatment - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+No treatment yet
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does your son wear contact lenses or glasses?
+
+Options: [Contact lenses | Glasses only | Both contacts and glasses | Neither]
+
+------------------------------------------------------------
+👤 User:
+Neither
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your son's condition or any other concerns you have?
+
+------------------------------------------------------------
+👤 User:
+No, I think I've told you everything relevant
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Self Care
+
+WhereToSeekCare:
+Monitor at home, see doctor if worsens
+
+LikelyCause:
+Viral conjunctivitis (pink eye) with upper respiratory infection
+
+KeyActions:
+• Apply warm compresses to eyes 3-4 times daily for 5-10 minutes • Gently clean eye discharge with clean, damp cloth • Wash hands frequently and avoid touching eyes • Keep him home from camp until discharge stops
+
+WhatToExpectWithSelfCare:
+Symptoms typically improve within 7-10 days as the viral infection resolves. Eye discharge may continue for several days but should gradually decrease.
+
+WhenToSeekCare:
+• Eye discharge becomes thick, yellow, or green • Severe eye pain develops • Vision changes or light sensitivity • Symptoms worsen after 3-4 days • No improvement after 7-10 days
+
+PreventionTips:
+• Teach frequent handwashing • Don't share towels, pillowcases, or eye makeup • Clean surfaces he touches regularly • Keep him home until no longer contagious
+
+Epilogue:
+I can help locate an urgent care clinic or pediatrician if his symptoms worsen. Any questions about managing his pink eye?

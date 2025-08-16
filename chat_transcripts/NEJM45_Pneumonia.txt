@@ -1,0 +1,148 @@
+👤 User:
+I’ve been experiencing fever and cough
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long have you been experiencing the fever and cough?
+
+------------------------------------------------------------
+👤 User:
+for 3 days
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your current temperature, and what's the highest it's been over these 3 days?
+
+------------------------------------------------------------
+👤 User:
+I haven't checked my highest temp, but the current temp is 101
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What type of cough do you have - dry or are you bringing up mucus/phlegm?
+
+Options: [Dry cough | Cough with clear mucus | Cough with yellow/green mucus | Cough with blood | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Cough with yellow/green mucus
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you experiencing any shortness of breath or difficulty breathing?
+
+Options: [No breathing problems | Mild shortness of breath with activity | Moderate - short of breath at rest | Severe - struggling to breathe | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Moderate - short of breath at rest
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chest pain, and if so, does it worsen when you breathe deeply or cough?
+
+Options: [No chest pain | Mild chest discomfort | Sharp pain that worsens with breathing | Dull aching chest pain | Severe chest pain | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Mild chest discomfort
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your age?
+
+------------------------------------------------------------
+👤 User:
+65
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like diabetes, heart disease, lung disease, or high blood pressure?
+
+Options: [Diabetes | Heart disease | High blood pressure | Lung disease (COPD, asthma) | Kidney disease | Cancer | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: High blood pressure, Other - I'll specify. Other - I'll specify: degenerative joint disease
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently taking any medications, including those for your high blood pressure?
+
+------------------------------------------------------------
+👤 User:
+yes, I don't recall the names
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke or have you smoked in the past?
+
+Options: [Never smoked | Current smoker | Former smoker - quit within 5 years | Former smoker - quit over 5 years ago | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Other - I'll specify. Other - I'll specify: don't want to disclose
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any other symptoms like body aches, headache, nausea, or loss of appetite?
+
+Options: [Body aches | Headache | Nausea or vomiting | Loss of appetite | Fatigue or weakness | Chills | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Fatigue or weakness
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you seen a doctor for these symptoms or had any tests done like chest X-ray or blood work?
+
+Options: [No, haven't seen anyone yet | Saw doctor but no tests done | Had chest X-ray | Had blood work | Had both chest X-ray and blood work | Other tests - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Had both chest X-ray and blood work
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What did the chest X-ray and blood work results show?
+
+------------------------------------------------------------
+👤 User:
+infiltrates in right lower lobe, wbc 14,000
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you taking any antibiotics currently, and if so, which ones and for how long?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Given your pneumonia diagnosis with shortness of breath at rest, you need immediate medical attention. Have you been back to see your doctor since getting these test results?
+
+Options: [No, haven't been back | Yes, saw doctor but no treatment started | Yes, doctor prescribed antibiotics but I haven't started | Yes, started antibiotics but symptoms worsening | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Other - I'll specify. Other - I'll specify: I didn't see a doctor. just got investigations done
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Emergency Care
+WhereToSeekCare:
+Emergency room immediately for pneumonia treatment
+LikelyCause:
+Bacterial pneumonia in right lower lobe
+KeyActions:
+• Go to ER now - don't delay • Bring your chest X-ray and lab results • Stay hydrated with water • Rest and avoid physical activity
+WhatToExpectAtER:
+You'll receive IV antibiotics, oxygen if needed, and monitoring. They may repeat chest X-ray and blood work to assess severity. Expect several hours for evaluation and initial treatment.
+Warnings:
+Seek immediate help if breathing becomes more difficult, chest pain worsens, or you feel confused or dizzy.
+Epilogue:
+Would you like me to help locate the nearest emergency room for you?

@@ -1,0 +1,203 @@
+👤 User:
+I keep getting painful sores inside my mouth, there are a few right now on the inside of my cheeks. 
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long have you had these current sores, and have you experienced mouth sores like this before?
+
+------------------------------------------------------------
+👤 User:
+They started about three days ago. I’ve been getting similar mouth sores every couple of months since I was little.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How many sores do you currently have, and what do they look like - size, color, and shape?
+
+------------------------------------------------------------
+👤 User:
+I can see about five of them right now. Each is a small round spot, maybe 3-4 millimeters across, with a whitish-yellow center and a red rim around it.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+On a scale of 1-10, how painful are these sores, and do they interfere with eating or drinking?
+
+------------------------------------------------------------
+👤 User:
+I’d call the pain about a 6 out of 10. It stings more when I eat spicy or acidic foods, so I’m trying to avoid those, but I can still eat and drink otherwise.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your age and have you noticed any triggers that seem to bring on these mouth sores?
+
+------------------------------------------------------------
+👤 User:
+I’m 17. I’m not totally sure what sets them off, but they do seem to pop up more often when I’m stressed out with school, and occasionally after I accidentally bite the inside of my cheek.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like autoimmune disorders, inflammatory bowel disease, or celiac disease?
+
+Options: [No chronic conditions | Autoimmune disorder (lupus, rheumatoid arthritis, etc.) | Inflammatory bowel disease (Crohn's, ulcerative colitis) | Celiac disease | Diabetes | Other condition - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+No chronic conditions
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently taking any medications, vitamins, or supplements?
+
+------------------------------------------------------------
+👤 User:
+I’m not taking any prescription meds or regular vitamins—nothing at the moment.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any food allergies or sensitivities, and have you noticed if certain foods seem to trigger your mouth sores?
+
+------------------------------------------------------------
+👤 User:
+I don’t have any known food allergies. I have noticed that citrus or really spicy foods can make the sores sting more once they’re already there, but I’m not sure those foods actually cause them in the first place.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Besides the mouth sores, do you have any other symptoms like fever, swollen lymph nodes, fatigue, or skin rashes?
+
+Options: [No other symptoms | Fever | Swollen lymph nodes in neck | Fatigue or feeling run down | Skin rashes or lesions | Joint pain | Other symptoms - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+No other symptoms
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do any family members have a history of recurrent mouth sores, autoimmune conditions, or similar oral problems?
+
+------------------------------------------------------------
+👤 User:
+My mom told me she used to get the same kind of mouth sores a lot when she was a teenager, but she doesn’t have any autoimmune diseases that we know of.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long do these sores typically last from start to healing, and do they leave any scars when they heal?
+
+------------------------------------------------------------
+👤 User:
+They’re usually gone within about a week, maybe ten days at most, and once they heal the skin looks completely normal—no scarring or marks left behind.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you ever seen a doctor or dentist about these mouth sores, or tried any treatments for them?
+
+------------------------------------------------------------
+👤 User:
+I haven’t gone to a doctor or dentist for this episode. I usually just rinse with warm salt water and sometimes use one of those over-the-counter numbing gels—nothing prescription.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you use any specific toothpaste brand, and have you noticed if switching toothpastes affects your mouth sores?
+
+------------------------------------------------------------
+👤 User:
+I usually use regular Crest toothpaste with fluoride—sometimes Colgate if that’s what’s in the bathroom. I haven’t really noticed any difference in how often I get the sores when I switch between them.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke, vape, use tobacco products, or drink alcohol?
+
+Options: [None of these | Smoking cigarettes | Vaping/e-cigarettes | Chewing tobacco or snuff | Drinking alcohol | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any recent dental work, orthodontic adjustments, or injuries to your mouth?
+
+------------------------------------------------------------
+👤 User:
+No recent dental work or braces adjustments. The only “injury” was that I accidentally bit my cheek about a week ago while eating, but that’s it.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been under more stress than usual lately with school, relationships, or other life events?
+
+------------------------------------------------------------
+👤 User:
+Yeah, midterms are coming up, so the past couple of weeks have definitely been more stressful than normal.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How often do you typically get these mouth sores - every few weeks, monthly, or less frequently?
+
+------------------------------------------------------------
+👤 User:
+Usually every couple of months—so maybe five or six times a year.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any allergies to medications, and have you noticed if your mouth sores get worse during certain seasons or times of year?
+
+------------------------------------------------------------
+👤 User:
+I don’t have any medication allergies that I know of, and I haven’t noticed any particular time of year when the sores are worse—they seem to show up randomly.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you get adequate sleep, and have you noticed if lack of sleep seems to coincide with when you get mouth sores?
+
+------------------------------------------------------------
+👤 User:
+I normally try to get around 7-8 hours a night, but during big exam weeks it drops to maybe 5-6 hours. It does seem like I’m more likely to get these sores when I’m short on sleep.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you ever had any blood tests done, and do you take any nutritional supplements like B vitamins, iron, or zinc?
+
+------------------------------------------------------------
+👤 User:
+No, I’ve never had any blood work done specifically for these sores—just the usual basic blood panel at my annual physical and everything was normal. I don’t take any supplements like B-vitamins, iron, or zinc.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you eat a balanced diet with fruits, vegetables, and protein, or do you have any dietary restrictions that might limit certain nutrients?
+
+------------------------------------------------------------
+👤 User:
+I’d say it’s pretty balanced—lots of regular meals at home with meat or chicken, vegetables, some fruit, and whole-grain bread or rice. I’m not on any special diet and I don’t cut out any major food groups.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your mouth sores, your overall health, or anything that might be relevant to your condition?
+
+------------------------------------------------------------
+👤 User:
+No, I think I’ve told you everything relevant.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Self Care
+
+WhereToSeekCare:
+See doctor if sores worsen or don't heal
+
+LikelyCause:
+Recurrent aphthous stomatitis (canker sores)
+
+KeyActions:
+• Apply benzocaine gel (Orajel, Anbesol) for pain relief • Rinse with warm salt water 3-4 times daily • Use OTC oral rinse with dexamethasone (Kenalog in Orabase) • Avoid spicy, acidic, or rough foods • Take ibuprofen 400mg every 6-8 hours for pain and inflammation
+
+StressManagement:
+• Practice stress reduction techniques during exam periods • Maintain 7-8 hours sleep nightly • Consider relaxation apps or brief meditation
+
+Prevention:
+• Use SLS-free toothpaste (Sensodyne Pronamel, Tom's of Maine) • Take L-lysine 1000mg daily as preventive supplement • Apply protective wax over sharp teeth edges
+
+WhenToSeekCare:
+• Sores larger than 1cm or lasting over 2 weeks • Fever, severe pain, or difficulty swallowing • More than 10 sores at once • Sores spreading to lips or outside mouth
+
+Epilogue:
+I'll check in with you in a few days to see how you're managing the pain and healing. Need help finding any of these treatments?

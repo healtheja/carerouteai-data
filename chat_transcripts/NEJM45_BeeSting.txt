@@ -1,0 +1,164 @@
+👤 User:
+My 9 year old boy was stung by a bee. 
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long ago was your son stung by the bee?
+
+------------------------------------------------------------
+👤 User:
+half an hour ago
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Where on his body was he stung?
+
+------------------------------------------------------------
+👤 User:
+upper lip
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there any swelling around his lip, face, or mouth area?
+
+------------------------------------------------------------
+👤 User:
+his upper lip is swollen. No swelling on other parts
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is he having any trouble breathing, swallowing, or speaking clearly?
+
+------------------------------------------------------------
+👤 User:
+No
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does he have any rash, hives, or red bumps anywhere on his body?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is he complaining of any pain, itching, or discomfort at the sting site?
+
+------------------------------------------------------------
+👤 User:
+yes, his upper lip is tender and he was crying hysterically before
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has your son ever been stung by a bee or wasp before?
+
+------------------------------------------------------------
+👤 User:
+No
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does your son have any known allergies to medications, foods, or other substances?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is your son currently taking any medications or supplements?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Did you see the stinger in his lip, and if so, was it removed?
+
+------------------------------------------------------------
+👤 User:
+I’m not sure
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Can you gently look at his upper lip to see if there's a small dark spot or stinger still in the skin?
+
+------------------------------------------------------------
+👤 User:
+No stinger
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How is your son acting now - is he calm, still upset, or showing any unusual behavior?
+
+------------------------------------------------------------
+👤 User:
+I calmed him down after trying for 15 min.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has he had any nausea, vomiting, dizziness, or feeling faint since the sting?
+
+------------------------------------------------------------
+👤 User:
+No
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does your son have any chronic health conditions like asthma, diabetes, or heart problems?
+
+------------------------------------------------------------
+👤 User:
+None
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you applied any ice, cold compress, or given him any medication since the sting?
+
+------------------------------------------------------------
+👤 User:
+none yet
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does he have any other symptoms like stomach pain, headache, or feeling unwell in any other way?
+
+Options: [Stomach pain | Headache | Feeling tired or weak | Feeling hot or feverish | Other symptoms - I'll specify | No other symptoms]
+
+------------------------------------------------------------
+👤 User:
+Selected: No other symptoms
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your son's condition or the bee sting incident?
+
+------------------------------------------------------------
+👤 User:
+nothing
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Self Care
+
+WhereToSeekCare:
+Monitor at home with emergency care if breathing problems develop
+
+LikelyCause:
+Normal local reaction to bee sting
+
+KeyActions:
+• Apply cold compress for 10-15 minutes every hour • Give children's ibuprofen (Advil/Motrin) for pain and swelling • Keep lip area clean and dry • Watch closely for any breathing difficulties
+
+WhatToExpectOverNextDays:
+• Swelling peaks in 24-48 hours then gradually improves • Pain should decrease within 6-12 hours with treatment • Complete healing typically takes 3-5 days • Some bruising around sting site is normal
+
+Warnings:
+Seek emergency care immediately if he develops difficulty breathing, swallowing problems, widespread hives, vomiting, or severe swelling of face/throat
+
+Epilogue:
+I'll check in tomorrow to see how his swelling is improving. Any questions about managing his bee sting?

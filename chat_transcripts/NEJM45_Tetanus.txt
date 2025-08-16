@@ -1,0 +1,128 @@
+👤 User:
+My husband is having severe muscle spasm episodes lasting for minutes.. 
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long has your husband been experiencing these severe muscle spasm episodes?
+
+------------------------------------------------------------
+👤 User:
+for a day
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Which muscles are affected by these spasms - back, neck, legs, arms, or other areas?
+
+Options: [Back muscles | Neck muscles | Leg muscles | Arm muscles | Abdominal muscles | Face/jaw muscles | Other areas - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Other areas - I'll specify, Face/jaw muscles, Back muscles. Other areas - I'll specify: pretty much whole body
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How old is your husband?
+
+------------------------------------------------------------
+👤 User:
+63
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does your husband have any chronic health conditions like diabetes, high blood pressure, kidney disease, or others?
+
+Options: [Diabetes | High blood pressure | Heart disease | Kidney disease | Liver disease | Thyroid problems | None of these | Other conditions - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What medications is your husband currently taking, including any recent changes or new prescriptions?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does your husband use alcohol, smoke, or use any recreational drugs?
+
+Options: [Alcohol - regularly | Alcohol - occasionally | Smoking/tobacco | Recreational drugs | None of these]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does your husband have any known allergies to medications, foods, or other substances?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What triggers these spasm episodes - movement, rest, stress, or do they happen randomly?
+
+------------------------------------------------------------
+👤 User:
+almost everything, noise, light, drafts, physical contact
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How severe are these spasms on a scale of 1-10, and can your husband speak or move normally between episodes?
+
+------------------------------------------------------------
+👤 User:
+9,10, no he cannot speak, his jaw becomes stiff and locked
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has your husband had any recent injuries, cuts, wounds, or medical procedures in the past few weeks?
+
+------------------------------------------------------------
+👤 User:
+I think he had a cut on his hand while gardening
+
+------------------------------------------------------------
+📱 CareRoute AI:
+When did this gardening cut happen, and was it from something dirty like rusty metal, thorns, or soil contact?
+
+------------------------------------------------------------
+👤 User:
+recently this week
+
+------------------------------------------------------------
+📱 CareRoute AI:
+When was your husband's last tetanus vaccination, if you know?
+
+------------------------------------------------------------
+👤 User:
+30 or 40 years ago
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Emergency Care
+
+WhereToSeekCare:
+Emergency Room immediately - call 911 for transport
+
+LikelyCause:
+Tetanus infection from contaminated gardening wound
+
+KeyActions:
+• Call 911 immediately - do not drive • Keep him in quiet, dark room until help arrives • Avoid touching or stimulating him • Stay calm and speak softly • Have someone meet paramedics outside
+
+WhatToExpectAtER:
+• Tetanus immunoglobulin and vaccine administration • IV muscle relaxants like diazepam or magnesium • Wound cleaning and antibiotic treatment • Possible intubation for airway protection • ICU admission for monitoring
+
+Warnings:
+Spasms can affect breathing muscles - if breathing becomes difficult, this is life-threatening
+
+Epilogue:
+This requires immediate emergency care. Call 911 now.

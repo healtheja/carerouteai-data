@@ -1,0 +1,190 @@
+👤 User:
+Vaginal itching and thick white discharge. 
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long have you been experiencing the vaginal itching and thick white discharge?
+
+------------------------------------------------------------
+👤 User:
+for 2 days
+
+------------------------------------------------------------
+📱 CareRoute AI:
+On a scale of 1-10, how severe is the itching, with 10 being unbearable?
+
+Options: [1-2 (mild) | 3-4 (mild-moderate) | 5-6 (moderate) | 7-8 (severe) | 9-10 (unbearable)]
+
+------------------------------------------------------------
+👤 User:
+Selected: 5-6 (moderate)
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does the discharge have any odor - fishy, foul, or no smell at all?
+
+Options: [No odor | Mild yeasty/bread-like smell | Fishy odor | Foul/strong odor | Other smell - I'll describe]
+
+------------------------------------------------------------
+👤 User:
+Selected: Mild yeasty/bread-like smell
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your age?
+
+------------------------------------------------------------
+👤 User:
+40
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently pregnant or is there any chance you could be pregnant?
+
+Options: [No, not pregnant | Yes, I'm pregnant | Possibly - not sure]
+
+------------------------------------------------------------
+👤 User:
+Selected: No, not pregnant
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like diabetes, HIV, or take medications that suppress your immune system?
+
+Options: [Diabetes | HIV/AIDS | Cancer treatment | Steroid medications | Autoimmune condition | None of these | Other condition - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently taking any medications, including antibiotics, birth control, or over-the-counter treatments?
+
+Options: [Antibiotics | Birth control pills | Hormone therapy | Antifungal cream/medication | Pain relievers | None of these | Other medications - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any known allergies to medications or treatments?
+
+Options: [Penicillin/antibiotics | Antifungal medications | Topical creams/ointments | Latex | No known allergies | Other allergies - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No known allergies
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you experiencing any other symptoms like burning during urination, pelvic pain, fever, or unusual bleeding?
+
+Options: [Burning during urination | Pelvic or abdominal pain | Fever or chills | Unusual bleeding | Pain during intercourse | None of these | Other symptoms - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had similar symptoms before, and if so, how were they treated?
+
+Options: [Never had this before | Yes, treated with OTC antifungal | Yes, treated with prescription medication | Yes, but never treated | Had similar but unsure of treatment]
+
+------------------------------------------------------------
+👤 User:
+Selected: Never had this before
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you recently taken antibiotics, changed soaps/detergents, worn tight clothing, or had any lifestyle changes that might be relevant?
+
+Options: [Recent antibiotic use | New soap/detergent/feminine products | Tight clothing or synthetic underwear | Increased stress | Diet changes | Swimming/hot tubs | None of these | Other changes - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you use any feminine hygiene products like douches, scented tampons, or vaginal sprays?
+
+Options: [Douches | Scented tampons or pads | Vaginal sprays or deodorants | Bubble baths | Scented toilet paper | None of these | Other products - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you sexually active, and if so, is your partner experiencing any symptoms like itching or irritation?
+
+Options: [Not sexually active | Sexually active - partner has no symptoms | Sexually active - partner has symptoms | Sexually active - unsure about partner symptoms]
+
+------------------------------------------------------------
+👤 User:
+Selected: Sexually active - unsure about partner symptoms
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been tested for sexually transmitted infections recently, or do you have any concerns about STI exposure?
+
+Options: [Recent STI testing - all negative | No recent testing but low risk | No recent testing and concerned about exposure | Never been tested | Prefer not to answer]
+
+------------------------------------------------------------
+👤 User:
+Selected: No recent testing but low risk
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke, drink alcohol regularly, or use any recreational substances?
+
+Options: [Smoking/tobacco | Regular alcohol use | Recreational drugs | None of these | Prefer not to answer]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you seen a doctor for these symptoms or had any tests done?
+
+Options: [No, haven't seen anyone yet | Saw doctor - waiting for results | Saw doctor - got results | Planning to see doctor soon | Used home test kit]
+
+------------------------------------------------------------
+👤 User:
+Selected: No, haven't seen anyone yet
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your symptoms, general health, or anything that might be relevant to your condition?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Self Care
+
+WhereToSeekCare:
+Doctor visit if symptoms worsen or persist beyond 7 days
+
+LikelyCause:
+Vaginal yeast infection (candidiasis)
+
+KeyActions:
+• Try OTC antifungal like miconazole (Monistat) 3-day treatment • Wear cotton underwear and loose-fitting clothes • Avoid scented products and douching • Keep genital area clean and dry
+
+WhatToExpectAtDoctorVisit:
+Doctor will examine discharge under microscope, may do vaginal swab culture, and prescribe stronger antifungal if needed
+
+Warnings:
+See doctor immediately if you develop fever, severe pelvic pain, or if symptoms worsen significantly
+
+Epilogue:
+Would you like me to help locate a doctor or urgent care clinic near you if symptoms don't improve?

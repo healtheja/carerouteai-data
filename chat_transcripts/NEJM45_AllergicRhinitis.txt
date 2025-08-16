@@ -1,0 +1,196 @@
+👤 User:
+Stuffy nose and lots of sneezing, worse in spring.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long have you been experiencing these stuffy nose and sneezing symptoms?
+
+------------------------------------------------------------
+👤 User:
+About 5 years. It’s there year-round but gets much worse every spring.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your age and gender?
+
+------------------------------------------------------------
+👤 User:
+22 years old, male.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like asthma, diabetes, or high blood pressure?
+
+Options: [Asthma | Allergies/hay fever | Diabetes | High blood pressure | Heart disease | Kidney disease | Thyroid problems | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Allergies/hay fever
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently taking any medications or have you taken any allergy medications in the past?
+
+------------------------------------------------------------
+👤 User:
+No, I’m not taking anything right now, and I haven’t used allergy medicines in the past.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke, drink alcohol, or use any recreational drugs?
+
+Options: [I smoke cigarettes | I drink alcohol | I use recreational drugs | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Besides the stuffy nose and sneezing, do you have any other symptoms?
+
+Options: [Itchy eyes | Watery eyes | Runny nose | Post-nasal drip | Cough | Headaches | Fatigue | Difficulty sleeping | Itchy throat | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Itchy eyes, Watery eyes, Itchy throat
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you noticed specific triggers that make your symptoms worse, like certain plants, trees, or outdoor activities?
+
+------------------------------------------------------------
+👤 User:
+Springtime makes it a lot worse, especially when I’m outdoors.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any indoor triggers like dust, pet dander, or mold that worsen your symptoms?
+
+Options: [Dust | Pet dander/cats/dogs | Mold | Strong scents/perfumes | Cleaning products | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do your symptoms improve when you're indoors with windows closed or when using air conditioning?
+
+------------------------------------------------------------
+👤 User:
+Yes, they usually improve when I’m indoors with the windows closed or with the AC on, especially in spring.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any family history of allergies, asthma, or eczema?
+
+Options: [Parents have allergies | Siblings have allergies | Parents have asthma | Siblings have asthma | Family history of eczema | No family history of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Other - I'll specify: Not sure
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you ever been tested for allergies or seen a doctor about these symptoms?
+
+------------------------------------------------------------
+👤 User:
+No, I haven’t been tested or seen a doctor for this.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any known allergies to medications, foods, or other substances?
+
+------------------------------------------------------------
+👤 User:
+No known drug or food allergies.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do your symptoms affect your sleep, work, or daily activities?
+
+------------------------------------------------------------
+👤 User:
+Mostly just annoying. It doesn’t really keep me from sleeping or going to class, except it can be a little worse in spring.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you experience any wheezing, chest tightness, or difficulty breathing with these symptoms?
+
+------------------------------------------------------------
+👤 User:
+No, I haven’t had wheezing, chest tightness, or trouble breathing.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you get frequent sinus infections, facial pain, or thick colored nasal discharge?
+
+------------------------------------------------------------
+👤 User:
+No, I don’t get sinus infections, facial pain, or thick colored discharge.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any skin problems like eczema, rashes, or hives that come and go with your nasal symptoms?
+
+------------------------------------------------------------
+👤 User:
+No current skin issues. My mom told me I had eczema when I was a baby, but nothing lately or tied to my nose symptoms.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you noticed if your symptoms are worse at certain times of day, like mornings or evenings?
+
+------------------------------------------------------------
+👤 User:
+No specific time of day—doesn’t seem consistently worse in the mornings or evenings.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you live in an area with a lot of trees, grass, or flowering plants, or have you moved to a different location in the past 5 years?
+
+------------------------------------------------------------
+👤 User:
+I’m not sure.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any pets at home or spend time around animals regularly?
+
+------------------------------------------------------------
+👤 User:
+No pets at home, and I don’t regularly spend time around animals.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your condition or symptoms that might be helpful?
+
+------------------------------------------------------------
+👤 User:
+No, I think I’ve told you everything relevant
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Self Care
+
+WhereToSeekCare:
+Consider allergy testing with primary care doctor or allergist
+
+LikelyCause:
+Seasonal allergic rhinitis (hay fever) from spring pollen
+
+KeyActions:
+• Start daily antihistamine like loratadine (Claritin) 10mg or cetirizine (Zyrtec) 10mg • Use saline nasal rinse twice daily during spring • Keep windows closed during high pollen days • Shower after outdoor activities in spring • Consider adding nasal steroid spray if antihistamine insufficient
+
+WhatToExpectFromTreatment:
+Antihistamines should reduce sneezing, itchy eyes within 1-2 hours. Nasal congestion may take 3-7 days to improve with consistent use.
+
+WhenToSeeDoctor:
+If symptoms don't improve after 2 weeks of treatment, interfere with sleep/work, or you develop breathing problems
+
+Epilogue:
+Would you like me to help locate an allergist or primary care doctor for allergy testing?

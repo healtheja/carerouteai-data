@@ -1,0 +1,204 @@
+👤 User:
+fever, sore throat and fatigue
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long have you been experiencing these symptoms?
+
+------------------------------------------------------------
+👤 User:
+for a week
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your current temperature, and what's the highest it's been this week?
+
+------------------------------------------------------------
+👤 User:
+didn’t measure
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How old are you?
+
+------------------------------------------------------------
+👤 User:
+16
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you male or female?
+
+Options: [Male | Female | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Female
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like asthma, diabetes, or heart problems?
+
+Options: [Asthma | Diabetes | Heart problems | High blood pressure | Kidney problems | Autoimmune condition | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently taking any medications or supplements?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any known allergies to medications or foods?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Besides fever, sore throat, and fatigue, do you have any other symptoms?
+
+Options: [Headache | Body aches | Cough | Runny or stuffy nose | Nausea or vomiting | Diarrhea | Rash | Swollen glands | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Swollen glands, Rash
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Where are the swollen glands located and how long have you had the rash?
+
+------------------------------------------------------------
+👤 User:
+rash about the same time, glands are on neck
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Can you describe the rash - where is it located and what does it look like?
+
+------------------------------------------------------------
+👤 User:
+very faint pink rash on trunk and my arms
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been around anyone who was sick recently, or have you traveled anywhere in the past few weeks?
+
+------------------------------------------------------------
+👤 User:
+I don’t recall
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you seen a doctor for these symptoms or had any tests done?
+
+------------------------------------------------------------
+👤 User:
+none yet
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How severe is your sore throat on a scale of 1-10, and does it hurt more when swallowing?
+
+------------------------------------------------------------
+👤 User:
+initially it was manageable but gradually it got severe and now it’s killing me, 8
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you noticed any white patches or pus on your tonsils when you look in the mirror?
+
+Options: [Yes, white patches or pus | No white patches | Haven't looked | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Other - I'll specify. Other - I'll specify: I see redness in the back of my throat
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How would you rate your energy level - are you able to do normal activities or are you mostly resting?
+
+------------------------------------------------------------
+👤 User:
+I could hardly get out of bed this morning
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any difficulty breathing, chest pain, or trouble swallowing liquids?
+
+------------------------------------------------------------
+👤 User:
+yea, trouble swallowing but no breathing problems or chest pain
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you able to swallow your own saliva, or are you drooling because it's too painful to swallow?
+
+Options: [Can swallow saliva normally | Some difficulty but can swallow | Cannot swallow saliva - drooling | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Can swallow saliva normally
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any nausea, vomiting, or stomach pain?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any headaches, joint pain, or muscle aches?
+
+------------------------------------------------------------
+👤 User:
+not really
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been eating and drinking normally, or has your appetite decreased?
+
+------------------------------------------------------------
+👤 User:
+yes definitely decreased appetite
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your condition or symptoms?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Doctor Visit
+
+WhereToSeekCare:
+Primary care doctor or urgent care within 24 hours
+
+LikelyCause:
+Strep throat or viral pharyngitis with systemic symptoms
+
+KeyActions:
+• Take ibuprofen (Advil) 400mg every 6-8 hours for pain and fever • Gargle warm salt water (1/2 tsp salt in 8oz water) every 2-3 hours • Stay hydrated with cool liquids like water, ice chips, or popsicles • Get plenty of rest and avoid strenuous activities
+
+WhatToExpectAtDoctorVisit:
+Your doctor will examine your throat and neck glands, likely perform a rapid strep test or throat culture, and may prescribe antibiotics if bacterial infection is confirmed
+
+Warnings:
+Seek immediate care if you develop difficulty breathing, severe trouble swallowing liquids, drooling, or high fever over 103°F
+
+Epilogue:
+Would you like me to help locate a doctor or urgent care clinic near you?

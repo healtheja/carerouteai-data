@@ -1,0 +1,224 @@
+👤 User:
+My 6 year old boy has fever and cough
+
+------------------------------------------------------------
+📱 CareRoute AI:
+When did the fever and cough start?
+
+------------------------------------------------------------
+👤 User:
+about 5 days ago
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's his current temperature and how high has the fever gotten?
+
+------------------------------------------------------------
+👤 User:
+current temp is 101.6. didn’t measure before
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What type of cough does he have - dry or producing mucus/phlegm?
+
+Options: [Dry cough | Cough with clear mucus | Cough with yellow/green mucus | Cough with blood | Not sure]
+
+------------------------------------------------------------
+👤 User:
+Selected: Cough with yellow/green mucus
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is he having any trouble breathing, wheezing, or breathing faster than normal?
+
+Options: [No breathing problems | Mild trouble breathing | Moderate breathing difficulty | Severe breathing problems | Wheezing sounds | Breathing faster than usual | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No breathing problems
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does he have any other symptoms like sore throat, ear pain, runny nose, or stomach upset?
+
+Options: [Sore throat | Ear pain | Runny nose | Stuffy nose | Stomach pain | Nausea/vomiting | Diarrhea | Headache | Body aches | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has he been eating and drinking normally, or has his appetite decreased?
+
+Options: [Eating and drinking normally | Appetite slightly decreased | Appetite significantly decreased | Refusing most food/drinks | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Eating and drinking normally
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How is his energy level - is he playing and active like usual, or more tired and less active?
+
+Options: [Playing and active as usual | Slightly less active | Much less active but still playing some | Very tired, mostly resting | Lethargic, hard to wake up | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Slightly less active
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does he have any chronic health conditions like asthma, allergies, or other ongoing medical issues?
+
+Options: [Asthma | Allergies | Diabetes | Heart condition | Immune system problems | Frequent ear infections | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Asthma
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is he currently taking any medications for his asthma or any other medications?
+
+------------------------------------------------------------
+👤 User:
+he is not taking anything for asthma, I’m giving acetaminophen for fever, but even after it, fever is not coming down
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does he have any known allergies to medications or foods?
+
+Options: [Penicillin/amoxicillin | Other antibiotics | Ibuprofen/aspirin | Food allergies | Environmental allergies | No known allergies | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No known allergies
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has he been around anyone else who was sick recently, or has he been in daycare or school?
+
+------------------------------------------------------------
+👤 User:
+yes at school, he has friend with pneumonia
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you seen a doctor for his current symptoms or had any tests done?
+
+Options: [No, haven't seen a doctor yet | Saw doctor but no tests done | Had chest X-ray | Had blood tests | Had other tests | Waiting for test results | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No, haven't seen a doctor yet
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How much acetaminophen are you giving him and how often?
+
+------------------------------------------------------------
+👤 User:
+every 6 years regular dose for his age
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has he had any rash, changes in urination, or any other symptoms I haven't asked about?
+
+Options: [Skin rash | Changes in urination | Night sweats | Chills | Chest pain | Fast heartbeat | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+When he coughs, does it seem to hurt him or make him uncomfortable?
+
+Options: [No, cough doesn't seem to bother him | Mild discomfort when coughing | Moderate pain/discomfort | Severe pain when coughing | Hard to tell | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Hard to tell
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How often is he coughing - constantly, several times per hour, or just occasionally?
+
+Options: [Constantly coughing | Several times per hour | Every hour or so | Just occasionally | Mostly at night | Mostly during day | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Several times per hour
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is the cough worse at night, during the day, or about the same all the time?
+
+Options: [Worse at night | Worse during the day | About the same all the time | Better when lying down | Better when sitting up | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: About the same all the time
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has he been sleeping well despite the cough and fever?
+
+Options: [Sleeping normally | Slightly restless sleep | Very restless, waking frequently | Unable to sleep well | Sleeping more than usual | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Slightly restless sleep
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does he seem to have any chest pain or does he hold his chest when coughing?
+
+Options: [No signs of chest pain | Sometimes holds chest when coughing | Often complains of chest hurting | Says chest hurts when I touch it | Hard to tell if chest hurts | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No signs of chest pain
+
+------------------------------------------------------------
+📱 CareRoute AI:
+When he breathes, can you see his ribs or the area below his ribs pulling in with each breath?
+
+Options: [No, breathing looks normal | Yes, I can see ribs pulling in | Yes, area below ribs pulls in | Both ribs and below ribs pull in | Not sure what to look for | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No, breathing looks normal
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about his condition or any other concerns you have?
+
+------------------------------------------------------------
+👤 User:
+nothing else
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Doctor Visit
+
+WhereToSeekCare:
+Pediatrician or family doctor within 24 hours
+
+LikelyCause:
+Bacterial respiratory infection, possibly pneumonia
+
+KeyActions:
+• Continue acetaminophen every 6 hours for fever • Add ibuprofen alternating with acetaminophen if fever persists • Encourage fluids and rest • Use cool mist humidifier in room • Monitor breathing closely
+
+WhatToExpectAtDoctorVisit:
+Doctor will listen to lungs, likely order chest X-ray to check for pneumonia, may prescribe antibiotics if bacterial infection confirmed
+
+Warnings:
+Seek emergency care immediately if breathing becomes difficult, lips turn blue, he becomes very sleepy/hard to wake, or fever goes above 104°F
+
+Epilogue:
+Would you like me to help locate a pediatrician or urgent care clinic near you?

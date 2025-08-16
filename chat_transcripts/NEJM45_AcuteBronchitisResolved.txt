@@ -1,0 +1,187 @@
+👤 User:
+cough with yellow sputum. 
+------------------------------------------------------------
+📱 CareRoute AI:
+How long have you been coughing up yellow sputum?
+
+------------------------------------------------------------
+👤 User:
+for 4 days
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any fever or chills during these 4 days?
+
+Options: [Yes, fever only | Yes, chills only | Yes, both fever and chills | No, neither]
+
+------------------------------------------------------------
+👤 User:
+Selected: Yes, fever only
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your current temperature, and what's the highest it's been in the past 4 days?
+
+------------------------------------------------------------
+👤 User:
+I don't have fever now, but during the first 2 days I had fever as high as 101. It is resolved now
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you experiencing any shortness of breath or difficulty breathing?
+
+Options: [Yes, significant difficulty | Yes, mild difficulty | Only with exertion | No difficulty breathing]
+
+------------------------------------------------------------
+👤 User:
+Selected: No difficulty breathing
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chest pain or discomfort when you cough or breathe?
+
+Options: [Yes, sharp chest pain | Yes, dull ache or pressure | Yes, pain only when coughing | No chest pain]
+
+------------------------------------------------------------
+👤 User:
+Selected: No chest pain
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your age and are you currently taking any medications?
+
+------------------------------------------------------------
+👤 User:
+61, I'm taking artivastatin for my high cholesterol
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any other chronic health conditions besides high cholesterol, such as diabetes, heart disease, or lung problems?
+
+Options: [Diabetes | Heart disease | Asthma | COPD | High blood pressure | Kidney disease | None of these]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any known allergies to medications?
+
+Options: [Yes, to antibiotics | Yes, to other medications | Yes, to multiple types | No known allergies]
+
+------------------------------------------------------------
+👤 User:
+Selected: No known allergies
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke or have you smoked in the past?
+
+Options: [Yes, I currently smoke | Yes, I quit within the last year | Yes, I quit more than a year ago | No, I've never smoked]
+
+------------------------------------------------------------
+👤 User:
+Selected: No, I've never smoked
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Besides the cough and fever, do you have any other symptoms like headache, body aches, sore throat, runny nose, or fatigue?
+
+Options: [Headache | Body aches | Sore throat | Runny nose | Fatigue | Loss of appetite | None of these]
+
+------------------------------------------------------------
+👤 User:
+Selected: Runny nose
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been around anyone who was sick recently, or have you traveled anywhere in the past 2 weeks?
+
+Options: [Yes, around sick people | Yes, I traveled | Yes, both | No, neither]
+
+------------------------------------------------------------
+👤 User:
+Selected: No, neither
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How would you describe your cough - is it mostly dry, or are you bringing up a lot of sputum throughout the day?
+
+Options: [Mostly dry with occasional sputum | Moderate amount of sputum | Large amounts of sputum frequently | Varies throughout the day]
+
+------------------------------------------------------------
+👤 User:
+Selected: Moderate amount of sputum
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is the yellow sputum always the same color, or have you noticed any blood streaks or changes in color?
+
+Options: [Always yellow | Sometimes green | Blood streaks present | Color has changed over time]
+
+------------------------------------------------------------
+👤 User:
+Selected: Always yellow
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you tried any over-the-counter medications or home remedies for your cough so far?
+
+Options: [Yes, cough medicine | Yes, pain relievers | Yes, home remedies | Yes, multiple things | No, nothing yet]
+
+------------------------------------------------------------
+👤 User:
+Selected: No, nothing yet
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you seen a doctor for this cough or had any tests done like a chest X-ray?
+
+Options: [Yes, saw doctor only | Yes, had chest X-ray | Yes, had other tests | Yes, multiple of these | No, haven't seen anyone]
+
+------------------------------------------------------------
+👤 User:
+Selected: No, haven't seen anyone
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How is your energy level and appetite compared to normal?
+
+Options: [Both normal | Energy low, appetite normal | Energy normal, appetite poor | Both energy and appetite are poor]
+
+------------------------------------------------------------
+👤 User:
+Selected: Energy low, appetite normal
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else about your condition that I should know - any other symptoms, concerns, or details you think might be important?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Doctor Visit
+
+WhereToSeekCare:
+Primary care doctor or urgent care within 1-2 days
+
+LikelyCause:
+Bacterial respiratory tract infection (likely bronchitis)
+
+KeyActions:
+• Stay well hydrated with water and warm fluids • Use a humidifier or breathe steam from hot shower • Get plenty of rest to support recovery • Take acetaminophen (Tylenol) 650mg every 6 hours for body aches if needed • Avoid cough suppressants as productive cough helps clear infection
+
+WhatToExpectAtDoctorVisit:
+Your doctor will likely listen to your lungs, may order a chest X-ray to rule out pneumonia, and will probably prescribe antibiotics like amoxicillin or azithromycin for the bacterial infection
+
+Warnings:
+Seek immediate care if you develop difficulty breathing, chest pain, high fever returns, or if you cough up blood
+
+Epilogue:
+Would you like me to help locate a doctor's office or urgent care clinic near you?

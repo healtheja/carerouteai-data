@@ -1,0 +1,82 @@
+👤 User:
+My daughter has pain in her abdomen for the past few hours. 
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long exactly has your daughter been experiencing the abdominal pain?
+
+------------------------------------------------------------
+👤 User:
+for 3 hours
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How old is your daughter?
+
+------------------------------------------------------------
+👤 User:
+12
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Where exactly in her abdomen is the pain located?
+
+Options: [Upper right | Upper left | Upper center | Lower right | Lower left | Lower center | All over | Around belly button | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: All over
+
+------------------------------------------------------------
+📱 CareRoute AI:
+On a scale of 1-10, how would your daughter rate her pain right now?
+
+Options: [1-2 (mild) | 3-4 (mild-moderate) | 5-6 (moderate) | 7-8 (severe) | 9-10 (very severe)]
+
+------------------------------------------------------------
+👤 User:
+Selected: 7-8 (severe)
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has your daughter vomited or felt nauseous since the pain started?
+
+Options: [Yes, vomited multiple times | Yes, vomited once | Yes, feels nauseous but hasn't vomited | No nausea or vomiting]
+
+------------------------------------------------------------
+👤 User:
+Selected: Yes, vomited multiple times
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does your daughter have a fever? If you can take her temperature, please share the reading.
+
+------------------------------------------------------------
+👤 User:
+yes, her temp is 104
+
+------------------------------------------------------------
+📱 CareRoute AI:
+This is a medical emergency. Your daughter needs immediate emergency room care right now. The combination of severe abdominal pain, repeated vomiting, and high fever (104°F) in a 12-year-old requires urgent evaluation for serious conditions like appendicitis or bowel obstruction.
+
+------------------------------------------------------------
+👤 User:
+ok
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Emergency Care
+WhereToSeekCare:
+Emergency Room immediately - do not delay
+LikelyCause:
+Possible appendicitis or serious abdominal infection
+KeyActions:
+• Go to ER now - do not give food or water • Bring list of any medications she takes • Note when pain started and any changes • Tell ER staff about 104°F fever immediately
+WhatToExpectAtER:
+Blood tests, urine test, and CT scan likely. IV fluids for dehydration. Possible surgery consultation if appendicitis suspected. Antibiotics may be started.
+Warnings:
+If pain worsens, she becomes less responsive, or develops severe dehydration during transport, call 911 for ambulance.
+Epilogue:
+Would you like me to help locate the nearest emergency room for you?

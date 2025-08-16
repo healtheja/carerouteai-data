@@ -1,0 +1,84 @@
+👤 User:
+Headache and fever.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long have you been experiencing the headache and fever?
+
+------------------------------------------------------------
+👤 User:
+for 3 days
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your current temperature if you've measured it recently?
+
+------------------------------------------------------------
+👤 User:
+didn’t measure
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Can you describe how the fever feels - are you having chills, sweating, or feeling very hot?
+
+------------------------------------------------------------
+👤 User:
+feeling very hot
+
+------------------------------------------------------------
+📱 CareRoute AI:
+On a scale of 1-10, how severe is your headache pain?
+
+Options: [1-2 (mild) | 3-4 (mild-moderate) | 5-6 (moderate) | 7-8 (severe) | 9-10 (very severe)]
+
+------------------------------------------------------------
+👤 User:
+Selected: 7-8 (severe)
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Where exactly is the headache located - all over your head, forehead, temples, back of head, or one side?
+
+Options: [All over my head | Forehead area | Temples | Back of head | One side only | Other location - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: All over my head
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any nausea, vomiting, or sensitivity to light or sound?
+
+Options: [Nausea | Vomiting | Sensitivity to light | Sensitivity to sound | None of these]
+
+------------------------------------------------------------
+👤 User:
+Selected: Sensitivity to light
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any neck stiffness or pain when you try to bend your neck forward?
+
+Options: [Yes, significant stiffness | Yes, mild stiffness | No stiffness | Not sure - I'll check]
+
+------------------------------------------------------------
+👤 User:
+Selected: Yes, significant stiffness
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Emergency Care
+WhereToSeekCare:
+Go to the Emergency Room immediately
+LikelyCause:
+Possible meningitis or serious central nervous system infection
+KeyActions:
+• Go to ER immediately - do not delay • Have someone drive you or call 911 • Bring a list of any medications you take • Stay hydrated if able to keep fluids down
+WhatToExpectAtER:
+Blood tests, lumbar puncture (spinal tap), CT scan or MRI, IV antibiotics will likely be started immediately while awaiting test results
+Warnings:
+If you develop confusion, difficulty staying awake, seizures, or worsening symptoms, call 911 immediately
+Epilogue:
+Would you like me to help locate the nearest emergency room?

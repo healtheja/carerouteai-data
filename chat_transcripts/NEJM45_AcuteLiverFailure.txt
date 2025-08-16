@@ -1,0 +1,46 @@
+👤 User:
+My wife is excessively sleepy and not responding well
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long has your wife been excessively sleepy and not responding well?
+
+------------------------------------------------------------
+👤 User:
+Since this morning. She hasn’t woken up properly. When I try to wake her up, she opens opening eyes but immediately falls into deep sleep
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Can you wake her up right now to respond to simple questions like 'What's your name?' or does she remain unresponsive?
+
+Options: [She can answer simple questions when I wake her | She opens eyes but can't answer questions | She doesn't wake up at all now | I haven't tried asking questions]
+
+------------------------------------------------------------
+👤 User:
+Selected: She opens eyes but can't answer questions
+
+------------------------------------------------------------
+📱 CareRoute AI:
+This is a medical emergency. Your wife needs immediate emergency care - call 911 or go to the ER right now. She's showing signs of altered consciousness that require urgent evaluation.
+
+------------------------------------------------------------
+👤 User:
+ok
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Emergency Care
+WhereToSeekCare:
+Emergency Room immediately - call 911 or drive now
+LikelyCause:
+Altered consciousness requiring urgent neurological evaluation
+KeyActions:
+• Call 911 immediately or drive to nearest ER • Stay with her and monitor breathing • Note any changes in responsiveness • Bring list of any medications she takes • Don't give food, water, or medications
+WhatToExpectAtER:
+ER will check vital signs, blood sugar, and neurological function. Expect CT scan of brain, blood tests, and IV fluids. They may give medications to reverse potential causes like low blood sugar or drug effects.
+Warnings:
+If breathing becomes irregular, she stops responding to touch, or has seizure-like movements, call 911 immediately if not already done.
+Epilogue:
+Would you like me to help locate the nearest emergency room?

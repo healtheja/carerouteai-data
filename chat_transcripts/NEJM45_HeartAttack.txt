@@ -1,0 +1,38 @@
+👤 User:
+chest pain.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+I need to assess your chest pain immediately. When did this chest pain start and how would you rate it on a scale of 1-10?
+
+------------------------------------------------------------
+👤 User:
+24 hours ago, it was 8/10 when it started now it seems like it is getting worse
+
+------------------------------------------------------------
+📱 CareRoute AI:
+This sounds very concerning. Are you experiencing any shortness of breath, nausea, sweating, or pain radiating to your arm, jaw, or back right now?
+
+Options: [Shortness of breath | Nausea or vomiting | Sweating | Pain in arm | Pain in jaw | Pain in back | None of these | Other symptoms - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Shortness of breath, Sweating
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Emergency Care
+WhereToSeekCare:
+Go to the nearest Emergency Room immediately
+LikelyCause:
+Possible heart attack or acute coronary syndrome
+KeyActions:
+• Call 911 or have someone drive you to ER now • Take aspirin 325mg if not allergic • Stay calm and avoid physical activity • Bring list of medications if available
+WhatToExpectAtER:
+You'll get immediate EKG, blood tests for heart enzymes, chest X-ray, and IV access. Treatment may include blood thinners, heart medications, or emergency procedures if needed.
+Warnings:
+If pain becomes crushing or you feel faint, call 911 immediately. Do not drive yourself.
+Epilogue:
+This requires immediate emergency care. Would you like me to help locate the nearest ER?

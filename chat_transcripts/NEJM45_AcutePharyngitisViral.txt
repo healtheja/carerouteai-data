@@ -1,0 +1,212 @@
+👤 User:
+Sore throat, Cough
+
+------------------------------------------------------------
+📱 CareRoute AI:
+I'll help you with your sore throat and cough. How long have you been experiencing these symptoms?
+
+------------------------------------------------------------
+👤 User:
+2 days ago
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your current age?
+
+------------------------------------------------------------
+👤 User:
+26
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have a fever? If yes, what's your current temperature?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you male or female?
+
+Options: [Male | Female | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Male
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like diabetes, high blood pressure, or asthma?
+
+Options: [Diabetes | High blood pressure | Asthma | Heart disease | Kidney disease | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently taking any medications or supplements?
+
+------------------------------------------------------------
+👤 User:
+Acetaminophen
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What dosage of acetaminophen are you taking and how often?
+
+------------------------------------------------------------
+👤 User:
+extra strength every 4 hours
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke, drink alcohol, or use any recreational drugs?
+
+Options: [I smoke cigarettes | I drink alcohol | I use recreational drugs | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Besides the sore throat and cough, do you have any other symptoms?
+
+Options: [Runny or stuffy nose | Headache | Body aches | Fatigue | Nausea or vomiting | Difficulty swallowing | Ear pain | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Headache
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Can you describe your cough - is it dry or are you bringing up mucus/phlegm?
+
+Options: [Dry cough | Cough with clear mucus | Cough with yellow/green mucus | Cough with blood | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Dry cough
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How would you rate your sore throat pain on a scale of 1-10, with 10 being the worst pain?
+
+Options: [1-2 (mild) | 3-4 (mild-moderate) | 5-6 (moderate) | 7-8 (severe) | 9-10 (worst pain)]
+
+------------------------------------------------------------
+👤 User:
+Selected: 5-6 (moderate)
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been around anyone who was sick recently, or have you traveled anywhere in the past 2 weeks?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any swollen lymph nodes in your neck or jaw area?
+
+Options: [Yes, very swollen and tender | Yes, slightly swollen | No swelling | I'm not sure | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No swelling
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you noticed any white patches, spots, or pus on your throat or tonsils?
+
+Options: [Yes, white patches or pus | Yes, red spots | No, just red and irritated | Haven't looked | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No, just red and irritated
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you having any difficulty breathing, shortness of breath, or wheezing?
+
+Options: [Yes, significant difficulty breathing | Yes, mild shortness of breath | Yes, wheezing sounds | No breathing problems | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No breathing problems
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you seen a doctor for these symptoms or had any tests done?
+
+------------------------------------------------------------
+👤 User:
+none yet
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any allergies to medications or other substances?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been experiencing any changes in your voice, like hoarseness or voice loss?
+
+Options: [Yes, very hoarse | Yes, slightly hoarse | Complete voice loss | No voice changes | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No voice changes
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you having any trouble sleeping due to your symptoms?
+
+Options: [Yes, can't sleep at all | Yes, waking up frequently | Yes, some difficulty falling asleep | No sleep problems | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No sleep problems
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you noticed any changes in your appetite or energy levels since your symptoms started?
+
+Options: [Significant loss of appetite and energy | Mild decrease in appetite/energy | No changes | Actually feeling more energetic | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No changes
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your condition or symptoms?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Self Care
+WhereToSeekCare:
+Home care with symptom monitoring
+LikelyCause:
+Viral upper respiratory infection (common cold)
+KeyActions:
+• Continue acetaminophen extra strength (500mg) every 6 hours for pain • Gargle warm salt water 3-4 times daily • Stay well hydrated with warm liquids • Use throat lozenges or honey for throat comfort • Get adequate rest
+WhatToExpectWithSelfCare:
+Symptoms typically peak around day 3-4 and gradually improve over 7-10 days. Cough may persist for up to 2 weeks.
+WhenToSeekCare:
+• Fever develops (over 100.4°F) • Severe throat pain or difficulty swallowing • Symptoms worsen after day 5 • Breathing difficulties develop
+Epilogue:
+I'll check in with you in 2-3 days to see how you're feeling. Any questions about managing your symptoms?

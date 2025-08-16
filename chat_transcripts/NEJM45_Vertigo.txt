@@ -1,0 +1,182 @@
+👤 User:
+head spinning
+
+------------------------------------------------------------
+📱 CareRoute AI:
+When did your head spinning start and how would you describe it - like the room is spinning around you or more like feeling lightheaded?
+
+------------------------------------------------------------
+👤 User:
+yes like the room spinning around me.  over the last month
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How often does this spinning sensation happen - is it constant, or does it come in episodes? And what seems to trigger it or make it worse?
+
+------------------------------------------------------------
+👤 User:
+come in episodes, nightly when I roll over in bed and recently during the day as well when I tilt my head back
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long does each spinning episode last - seconds, minutes, or longer? And do you have any nausea or vomiting with the spinning?
+
+------------------------------------------------------------
+👤 User:
+seconds, around less than 30 sec
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any hearing loss, ear pain, ringing in your ears, or feeling of fullness in either ear?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your age and gender?
+
+------------------------------------------------------------
+👤 User:
+65, f
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like diabetes, high blood pressure, heart disease, or take any medications regularly?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any allergies to medications?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke, drink alcohol, or use any recreational drugs?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any recent head injuries, falls, or accidents in the past few months?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any other symptoms like headaches, vision changes, weakness, numbness, difficulty speaking, or balance problems when you're not having the spinning episodes?
+
+Options: [Headaches | Vision changes | Weakness | Numbness | Difficulty speaking | Balance problems | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any recent cold, flu, or ear infections in the past few months?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you seen a doctor for this spinning sensation or had any tests done like hearing tests or imaging?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you noticed any changes in your stress levels, sleep patterns, or started any new activities or exercises recently?
+
+------------------------------------------------------------
+👤 User:
+I don’t
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any family history of inner ear problems, migraines, or balance disorders?
+
+------------------------------------------------------------
+👤 User:
+not that I recall
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any recent changes in your blood pressure, felt dizzy when standing up, or noticed your heart racing during these episodes?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any neck pain, stiffness, or have you had any neck injuries in the past?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you noticed if certain positions make it worse - like lying on one side versus the other, or does it happen regardless of which way you turn?
+
+------------------------------------------------------------
+👤 User:
+I dint notice any side difference
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any recent dental work, sinus problems, or changes in your vision or eyeglasses prescription?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you feel unsteady or off-balance when walking, or does the spinning only happen with specific head movements like rolling over or tilting back?
+
+------------------------------------------------------------
+👤 User:
+I don’t feel unsteady when walking
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your condition or any other concerns you have about these spinning episodes?
+
+------------------------------------------------------------
+👤 User:
+nothing else
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Doctor Visit
+WhereToSeekCare:
+Primary care doctor or ENT specialist within 1-2 weeks
+LikelyCause:
+Benign Paroxysmal Positional Vertigo (BPPV)
+KeyActions:
+• Avoid sudden head movements and position changes • Sleep with head elevated on 2-3 pillows • Move slowly when getting up from bed • Sit on edge of bed for 30 seconds before standing • Stay hydrated and avoid caffeine
+WhatToExpectAtDoctorVisit:
+Your doctor will likely perform the Dix-Hallpike test to confirm BPPV diagnosis. They may also check your ears, blood pressure, and neurological function. Treatment typically involves canalith repositioning procedures like the Epley maneuver, which can be done in the office and often provides immediate relief.
+Warnings:
+Seek immediate care if you develop severe headache, vision changes, weakness, numbness, difficulty speaking, or persistent vomiting with the vertigo.
+Epilogue:
+Would you like me to help locate a doctor or ENT specialist in your area?

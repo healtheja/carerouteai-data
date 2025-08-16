@@ -1,0 +1,206 @@
+👤 User:
+shortness of breath and cough for several days
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How many days have you been experiencing the shortness of breath and cough?
+
+------------------------------------------------------------
+👤 User:
+these symptoms escalated in the past 3 days, but I have cough with clear sputum every morning for months
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your age?
+
+------------------------------------------------------------
+👤 User:
+56
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you male or female?
+
+Options: [Male | Female]
+
+------------------------------------------------------------
+👤 User:
+Selected: Female
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like diabetes, high blood pressure, heart disease, or asthma?
+
+Options: [Diabetes | High blood pressure | Heart disease | Asthma | COPD | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently taking any medications or have you taken any in the past month?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any known allergies to medications, foods, or other substances?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke cigarettes, use tobacco products, or have you in the past?
+
+Options: [Never smoked | Current smoker | Former smoker - quit within past year | Former smoker - quit over a year ago]
+
+------------------------------------------------------------
+👤 User:
+Selected: Current smoker
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How many cigarettes do you smoke per day and for how many years have you been smoking?
+
+------------------------------------------------------------
+👤 User:
+for 40 years, 1-2 packs per day
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any other symptoms like fever, chest pain, wheezing, or fatigue?
+
+Options: [Fever | Chest pain | Wheezing | Fatigue | Weight loss | Night sweats | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+On a scale of 1-10, how would you rate your shortness of breath at rest versus with activity?
+
+------------------------------------------------------------
+👤 User:
+currently at rest 3 or 4 and with activity 6,7
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has the morning cough with clear sputum changed at all in the past 3 days - more frequent, different color, or blood-tinged?
+
+------------------------------------------------------------
+👤 User:
+yes more frequent
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any recent illness, cold, or exposure to sick people in the past 2 weeks?
+
+------------------------------------------------------------
+👤 User:
+No exposure but my symptoms started 3 days ago with rhinorrhea
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been exposed to any unusual dust, chemicals, or fumes recently at work or home?
+
+------------------------------------------------------------
+👤 User:
+I cannot recall any
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you seen a doctor for these symptoms or had any tests like chest X-ray or breathing tests done recently?
+
+------------------------------------------------------------
+👤 User:
+not yet
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any swelling in your legs, ankles, or feet?
+
+Options: [No swelling | Mild swelling | Moderate swelling | Severe swelling]
+
+------------------------------------------------------------
+👤 User:
+Selected: No swelling
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any trouble sleeping due to breathing problems or need to sleep propped up on pillows?
+
+------------------------------------------------------------
+👤 User:
+yes trouble sleeping but I don’t have to use pillows. I usually turn sideways
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you noticed any changes in your voice, hoarseness, or difficulty swallowing?
+
+Options: [No changes | Voice changes/hoarseness | Difficulty swallowing | Both voice and swallowing issues]
+
+------------------------------------------------------------
+👤 User:
+Selected: No changes
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any unintentional weight loss in the past few months?
+
+Options: [No weight loss | Lost 5-10 pounds | Lost 10-20 pounds | Lost more than 20 pounds | Not sure/haven't weighed myself]
+
+------------------------------------------------------------
+👤 User:
+Selected: No weight loss
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any family history of lung disease, heart disease, or cancer?
+
+Options: [Lung disease | Heart disease | Lung cancer | Other cancers | No family history | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No family history
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you traveled anywhere recently or been around animals, birds, or insects that might have bitten you?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your condition or symptoms that we haven't discussed?
+
+------------------------------------------------------------
+👤 User:
+I have had similar episodes each winter for the past 4 years
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Doctor Visit
+WhereToSeekCare:
+Primary care doctor within 3-5 days
+LikelyCause:
+Chronic bronchitis with acute exacerbation
+KeyActions:
+• Stop smoking immediately - this is critical for healing • Use a humidifier or breathe steam from hot shower • Stay hydrated with warm fluids like tea or broth • Avoid cold air and cover nose/mouth when going outside • Get plenty of rest
+WhatToExpectAtDoctorVisit:
+Your doctor will likely order a chest X-ray and breathing tests (spirometry). They may prescribe bronchodilators (inhalers like albuterol), steroids to reduce inflammation, and discuss smoking cessation programs. Blood tests may check for infection markers.
+SmokingCessation:
+Quitting smoking is essential - your 40-year, 1-2 pack daily habit is the primary cause. Ask your doctor about nicotine replacement therapy, prescription medications like Chantix, or smoking cessation programs.
+Warnings:
+Seek emergency care if you develop severe shortness of breath at rest, chest pain, high fever, or coughing up blood. If breathing worsens significantly, don't wait for your appointment.
+Epilogue:
+Would you like me to help locate a primary care doctor near you?

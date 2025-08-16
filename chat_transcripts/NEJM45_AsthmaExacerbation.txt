@@ -1,0 +1,130 @@
+👤 User:
+I’ve shortness of breath which is worsening , cough and wheezing for 3 days.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How old are you?
+
+------------------------------------------------------------
+👤 User:
+27
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What is your gender?
+
+Options: [Male | Female | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Female
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently pregnant or could you be pregnant?
+
+Options: [Yes, I'm pregnant | Possibly pregnant | No, not pregnant]
+
+------------------------------------------------------------
+👤 User:
+Selected: No, not pregnant
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like asthma, diabetes, heart disease, or high blood pressure?
+
+Options: [Asthma | COPD | Heart disease | High blood pressure | Diabetes | Allergies | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Asthma
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently taking any medications for your asthma or other conditions? If yes, please list them with dosages.
+
+------------------------------------------------------------
+👤 User:
+rescue inhaler, corticosteroid inhaler, leukotriene receptor antagonist
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any known allergies to medications, foods, or environmental triggers?
+
+------------------------------------------------------------
+👤 User:
+none
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke, drink alcohol, or use any recreational drugs?
+
+Options: [I smoke cigarettes | I vape/use e-cigarettes | I drink alcohol regularly | I use recreational drugs | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+On a scale of 1-10, how severe is your shortness of breath right now?
+
+Options: [1-2 (mild) | 3-4 (mild-moderate) | 5-6 (moderate) | 7-8 (severe) | 9-10 (very severe)]
+
+------------------------------------------------------------
+👤 User:
+Selected: 7-8 (severe)
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you having trouble speaking in full sentences due to your breathing difficulty?
+
+Options: [Yes, can only speak a few words at a time | Yes, can speak short phrases but not full sentences | No, I can speak in full sentences but with some difficulty | No, speaking is not affected]
+
+------------------------------------------------------------
+👤 User:
+Selected: Yes, can speak short phrases but not full sentences
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you experiencing any chest pain or tightness right now?
+
+Options: [Yes, severe chest pain | Yes, moderate chest tightness | Yes, mild chest tightness | No chest pain or tightness]
+
+------------------------------------------------------------
+👤 User:
+Selected: No chest pain or tightness
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How many times have you used your rescue inhaler in the past 24 hours?
+
+Options: [0-2 times | 3-4 times | 5-6 times | 7-8 times | More than 8 times | I don't remember exactly]
+
+------------------------------------------------------------
+👤 User:
+Selected: More than 8 times
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Emergency Care
+
+WhereToSeekCare:
+Go to the Emergency Room immediately
+
+LikelyCause:
+Severe asthma exacerbation requiring immediate medical intervention
+
+KeyActions:
+• Use rescue inhaler every 20 minutes while heading to ER • Have someone drive you - do not drive yourself • Bring all your inhalers and medication list • Sit upright during transport
+
+WhatToExpectAtER:
+You'll receive nebulizer treatments, oral/IV steroids, oxygen monitoring, chest X-ray, and possible admission for observation and treatment optimization
+
+Warnings:
+If breathing becomes more difficult, lips turn blue, or you feel confused, call 911 immediately
+
+Epilogue:
+Would you like me to help locate the nearest Emergency Room?

@@ -1,0 +1,202 @@
+👤 User:
+Diarrhea, nausea and vomiting
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How long have you been experiencing these symptoms?
+
+------------------------------------------------------------
+👤 User:
+for a few hours
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How many times have you vomited and had diarrhea in the past few hours?
+
+------------------------------------------------------------
+👤 User:
+I've been having diarrhea non stop, in a few hours I had to go 6 times and nausea and vomiting has also been pretty bad
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your age?
+
+------------------------------------------------------------
+👤 User:
+14
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you male or female?
+
+Options: [Male | Female]
+
+------------------------------------------------------------
+👤 User:
+Selected: Male
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like diabetes, asthma, or others?
+
+Options: [Diabetes | Asthma | Heart condition | Kidney disease | Other chronic condition - I'll specify | None]
+
+------------------------------------------------------------
+👤 User:
+Selected: None
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently taking any medications or supplements?
+
+Options: [Yes - I'll specify | No]
+
+------------------------------------------------------------
+👤 User:
+Selected: No
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have a fever? If yes, what's your temperature?
+
+------------------------------------------------------------
+👤 User:
+100.1
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you experiencing any abdominal pain or cramping? If yes, rate it 1-10 and describe where.
+
+------------------------------------------------------------
+👤 User:
+yes, 7
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Where exactly is the pain located - upper abdomen, lower abdomen, around belly button, or elsewhere?
+
+------------------------------------------------------------
+👤 User:
+all over
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What does your diarrhea look like - watery, bloody, mucus, or normal color?
+
+Options: [Watery | Bloody | Contains mucus | Normal brown color | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Watery
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you eaten anything unusual in the past 24-48 hours or been around anyone else who's sick?
+
+------------------------------------------------------------
+👤 User:
+yes, ate undercooked chicken at a picnic 18 hours ago
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you able to keep fluids down or do you vomit everything you drink?
+
+Options: [Can keep some fluids down | Vomit everything I drink | Haven't tried drinking much]
+
+------------------------------------------------------------
+👤 User:
+Selected: Can keep some fluids down
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any other symptoms like headache, dizziness, muscle aches, or chills?
+
+Options: [Headache | Dizziness | Muscle aches | Chills | Other symptoms - I'll specify | None of these]
+
+------------------------------------------------------------
+👤 User:
+Selected: Dizziness
+
+------------------------------------------------------------
+📱 CareRoute AI:
+When you stand up, do you feel very dizzy or lightheaded? Are you urinating less than usual?
+
+------------------------------------------------------------
+👤 User:
+not very dizzy, feel weak as I had to pass stools 6 times in a few hours and vomited too
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been able to eat anything today or does food make you feel worse?
+
+------------------------------------------------------------
+👤 User:
+cannot tolerate anything so far
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Was anyone else at the picnic who ate the same chicken also getting sick?
+
+------------------------------------------------------------
+👤 User:
+I'm not sure
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you traveled anywhere recently or been exposed to well water, lakes, or pools?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any allergies to medications?
+
+Options: [Yes - I'll specify | No | Not sure]
+
+------------------------------------------------------------
+👤 User:
+Selected: No
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you seen a doctor for these symptoms or had any tests done?
+
+Options: [Yes - I'll specify | No]
+
+------------------------------------------------------------
+👤 User:
+Selected: No
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your condition or symptoms?
+
+------------------------------------------------------------
+👤 User:
+nothing else
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Urgent Care
+
+WhereToSeekCare:
+Urgent care clinic or same-day doctor visit
+
+LikelyCause:
+Food poisoning from undercooked chicken (likely Salmonella or Campylobacter)
+
+KeyActions:
+• Sip small amounts of clear fluids every 15 minutes (water, electrolyte drinks) • Rest and avoid solid foods until vomiting stops • Take your temperature every 4 hours • Watch for signs of dehydration (dry mouth, less urination, severe dizziness)
+
+WhatToExpectAtUrgentCare:
+Doctor will assess dehydration level and may give IV fluids. Stool sample may be collected for testing. Anti-nausea medication might be prescribed. Antibiotics usually not needed unless severe.
+
+Warnings:
+Seek emergency care immediately if you develop severe dehydration (can't keep fluids down for 6+ hours), blood in vomit/stool, severe abdominal pain, or high fever over 102°F
+
+Epilogue:
+Would you like me to help locate an urgent care clinic near you?

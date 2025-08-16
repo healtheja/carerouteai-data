@@ -1,0 +1,194 @@
+👤 User:
+flank pain. 
+
+------------------------------------------------------------
+📱 CareRoute AI:
+I'll help you with your flank pain. How long have you been experiencing this pain?
+
+------------------------------------------------------------
+👤 User:
+for an hour
+
+------------------------------------------------------------
+📱 CareRoute AI:
+On a scale of 1-10, how severe is your flank pain right now?
+
+Options: [1-2 (mild) | 3-4 (mild-moderate) | 5-6 (moderate) | 7-8 (severe) | 9-10 (excruciating)]
+
+------------------------------------------------------------
+👤 User:
+Selected: 9-10 (excruciating)
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does the pain radiate anywhere - to your groin, abdomen, back, or other areas?
+
+Options: [Groin | Lower abdomen | Back | Testicles/labia | Thigh | No radiation | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Groin
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you having any nausea or vomiting?
+
+Options: [Yes - nausea only | Yes - vomiting | Yes - both nausea and vomiting | No]
+
+------------------------------------------------------------
+👤 User:
+Selected: Yes - both nausea and vomiting
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you noticed any changes in your urine - blood, color changes, or difficulty urinating?
+
+Options: [Blood in urine | Dark/tea-colored urine | Cloudy urine | Difficulty starting urination | Painful urination | Frequent urination | No changes | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No changes
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your age and gender?
+
+------------------------------------------------------------
+👤 User:
+45 male
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like diabetes, high blood pressure, or kidney problems?
+
+Options: [Diabetes | High blood pressure | Kidney disease | Heart disease | Previous kidney stones | Gout | None | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently taking any medications or supplements?
+
+Options: [Yes - I'll list them | No medications or supplements]
+
+------------------------------------------------------------
+👤 User:
+Selected: No medications or supplements
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any known allergies to medications?
+
+Options: [Yes - I'll specify | No known allergies]
+
+------------------------------------------------------------
+👤 User:
+Selected: No known allergies
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke, drink alcohol, or use any recreational drugs?
+
+Options: [Smoke cigarettes | Drink alcohol regularly | Use recreational drugs | None of these]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any fever or chills right now?
+
+Options: [Yes - fever | Yes - chills | Yes - both fever and chills | No fever or chills]
+
+------------------------------------------------------------
+👤 User:
+Selected: No fever or chills
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any recent trauma or injury to your back or side?
+
+Options: [Yes - recent injury | Yes - minor trauma | No recent trauma or injury]
+
+------------------------------------------------------------
+👤 User:
+Selected: No recent trauma or injury
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been drinking plenty of fluids today, or have you been dehydrated?
+
+Options: [Drinking plenty of fluids | Somewhat dehydrated | Very dehydrated | Not sure]
+
+------------------------------------------------------------
+👤 User:
+Selected: Not sure
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you done any strenuous physical activity or heavy lifting recently?
+
+Options: [Yes - heavy lifting | Yes - intense exercise | Yes - both | No strenuous activity]
+
+------------------------------------------------------------
+👤 User:
+Selected: No strenuous activity
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Does the pain come in waves or is it constant?
+
+Options: [Comes in waves | Constant pain | Varies - sometimes waves, sometimes constant]
+
+------------------------------------------------------------
+👤 User:
+Selected: Comes in waves
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Can you find any position that makes the pain better or worse?
+
+Options: [Better when lying down | Better when standing/walking | Worse when moving | No position helps | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: No position helps
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you had any other symptoms like abdominal pain, back pain, or difficulty concentrating due to the pain?
+
+Options: [Abdominal pain | Lower back pain | Difficulty concentrating | Restlessness/can't sit still | Sweating | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your condition or symptoms?
+
+------------------------------------------------------------
+👤 User:
+no
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Emergency Care
+WhereToSeekCare:
+Emergency Room immediately
+LikelyCause:
+Kidney stone (nephrolithiasis)
+KeyActions:
+• Go to ER now - don't drive yourself • Bring someone with you for support • Don't eat or drink anything before going • Take a container to catch urine if you urinate
+WhatToExpectAtER:
+• CT scan to locate stone • IV fluids and strong pain medication • Blood and urine tests • Possible procedures if stone is large or stuck
+Warnings:
+Seek immediate care if you develop fever, inability to urinate, or worsening pain
+Epilogue:
+Would you like me to help locate the nearest emergency room for you?

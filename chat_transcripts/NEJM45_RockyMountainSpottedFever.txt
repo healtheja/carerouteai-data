@@ -1,0 +1,70 @@
+👤 User:
+Fever, Chills. 
+
+------------------------------------------------------------
+📱 CareRoute AI:
+I'll help you with your fever and chills. How long have you been experiencing these symptoms?
+
+------------------------------------------------------------
+👤 User:
+My 8 year old boy has these symptoms for 2 days
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your son's current temperature, and have you been able to measure it with a thermometer?
+
+------------------------------------------------------------
+👤 User:
+I haven’t
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Please take his temperature now if you have a thermometer. What other symptoms has he had - any cough, sore throat, runny nose, vomiting, or diarrhea?
+
+Options: [Cough | Sore throat | Runny nose | Stuffy nose | Vomiting | Diarrhea | Stomach pain | Headache | Body aches | Rash | None of these | Other symptoms - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Selected: Rash, Body aches, Other symptoms - I'll specify. Other symptoms - I'll specify: joint pains, weakness
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Where is the rash located on his body, and can you describe what it looks like - flat red spots, raised bumps, or something else?
+
+------------------------------------------------------------
+👤 User:
+rash is on his wrists and ankles and flat pink and raised pink
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Has your son been camping, hiking, or around tall grass or wooded areas in the past 2 weeks? Also, have you noticed any tick bites on him?
+
+------------------------------------------------------------
+👤 User:
+Yes, we were outside. I’m not sure about the tick bites
+
+------------------------------------------------------------
+📱 CareRoute AI:
+This combination of fever, rash on wrists and ankles, and recent outdoor exposure is concerning for a serious tick-borne illness that needs immediate medical attention. Please take your son to the emergency room right now.
+
+------------------------------------------------------------
+👤 User:
+ok
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Emergency Care
+WhereToSeekCare:
+Emergency room immediately - do not delay
+LikelyCause:
+Rocky Mountain Spotted Fever (tick-borne illness)
+KeyActions:
+• Go to ER now - mention tick exposure and rash location • Bring list of recent outdoor activities and locations • Don't give fever reducers before ER visit • Watch for worsening symptoms during transport
+WhatToExpectAtER:
+Blood tests, possible lumbar puncture, immediate IV antibiotics (likely doxycycline), close monitoring for complications
+Warnings:
+If rash spreads, breathing difficulty, severe headache, or confusion develops - call 911 immediately
+Epilogue:
+Would you like me to help locate the nearest emergency room for you?

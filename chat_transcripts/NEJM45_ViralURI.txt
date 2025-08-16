@@ -1,0 +1,197 @@
+👤 User:
+Runny nose and sore throat for 2 days.
+------------------------------------------------------------
+📱 CareRoute AI:
+How old are you?
+
+------------------------------------------------------------
+👤 User:
+30
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you male or female?
+
+Options: [Male | Female | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Male
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any chronic health conditions like diabetes, high blood pressure, or asthma?
+
+Options: [Diabetes | High blood pressure | Asthma | Heart disease | Kidney disease | Autoimmune condition | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you currently taking any medications or supplements?
+
+------------------------------------------------------------
+👤 User:
+Just some over-the-counter cough syrup and throat lozenges. No regular prescriptions or supplements.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you smoke, drink alcohol, or use any recreational drugs?
+
+Options: [I smoke cigarettes | I drink alcohol occasionally | I drink alcohol regularly | I use recreational drugs | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+I smoke cigarettes
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How many cigarettes do you smoke per day on average?
+
+------------------------------------------------------------
+👤 User:
+About 10 a day.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Besides the runny nose and sore throat, do you have any other symptoms?
+
+Options: [Fever or chills | Cough | Headache | Body aches | Fatigue | Nausea or vomiting | Difficulty swallowing | Ear pain | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Cough, Headache, Body aches, Other - I'll specify: I’ve felt hot and sweaty but no measured fever; coughing up clear phlegm.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+What's your current temperature if you've measured it? If not, how severe are the hot/sweaty feelings on a scale of 1-10?
+
+------------------------------------------------------------
+👤 User:
+98.4°F (36.9°C) yesterday and today.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How would you rate your sore throat pain on a scale of 1-10, and does it hurt more when swallowing?
+
+------------------------------------------------------------
+👤 User:
+About 4/10, and yes, it’s a bit worse when I swallow.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How would you describe your cough - is it dry or productive, and how frequent is it?
+
+------------------------------------------------------------
+👤 User:
+Productive with clear phlegm, on and off during the day.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you experiencing any shortness of breath, chest tightness, or wheezing?
+
+Options: [Shortness of breath | Chest tightness | Wheezing | Difficulty breathing when lying down | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you been around anyone who was sick recently, or have you traveled anywhere in the past 2 weeks?
+
+------------------------------------------------------------
+👤 User:
+No known sick contacts, and no travel in the past 2 weeks.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you seen a doctor for these symptoms or had any tests done?
+
+------------------------------------------------------------
+👤 User:
+No, I haven’t seen a doctor, and I haven’t had any tests done.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Do you have any allergies to medications or other substances?
+
+------------------------------------------------------------
+👤 User:
+No known allergies.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you noticed any changes in your appetite, sleep, or energy levels since these symptoms started?
+
+------------------------------------------------------------
+👤 User:
+No major changes—eating okay, sleep is about normal, and energy feels about the same.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Are you experiencing any nausea, vomiting, diarrhea, or stomach pain?
+
+Options: [Nausea | Vomiting | Diarrhea | Stomach pain | Loss of appetite | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+None of these
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Have you noticed any changes in your sense of taste or smell?
+
+Options: [Complete loss of taste and smell | Partial loss of taste and smell | Taste and smell seem normal | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Taste and smell seem normal
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Any skin rashes, swollen glands in your neck, or unusual fatigue beyond what you'd expect from a cold?
+
+Options: [Skin rash | Swollen glands in neck | Unusual fatigue | Joint pain | None of these | Other - I'll specify]
+
+------------------------------------------------------------
+👤 User:
+Swollen glands in neck
+
+------------------------------------------------------------
+📱 CareRoute AI:
+How noticeable are the swollen glands - can you feel them easily when touching your neck, and are they tender or painful?
+
+------------------------------------------------------------
+👤 User:
+They’re small and easy to feel on the sides of my neck, and they’re not tender or painful.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+Is there anything else I should know about your condition or any other concerns you have?
+
+------------------------------------------------------------
+👤 User:
+No, I think I’ve told you everything relevant.
+
+------------------------------------------------------------
+📱 CareRoute AI:
+
+CareRecommendation:
+Self Care
+WhereToSeekCare:
+Monitor at home, see doctor if symptoms worsen
+LikelyCause:
+Common cold (viral upper respiratory infection)
+KeyActions:
+• Continue throat lozenges and cough syrup as needed • Drink plenty of warm fluids like tea with honey • Get adequate rest and sleep • Use saline nasal rinse twice daily • Consider reducing smoking temporarily to help healing
+WhatToExpectWithSelfCare:
+Symptoms typically peak around day 3-4 and gradually improve over 7-10 days. Runny nose may change from clear to yellow/green briefly - this is normal. Swollen lymph nodes should shrink as your body fights the infection.
+WhenToSeekCare:
+• Fever above 101°F (38.3°C) • Severe throat pain making swallowing very difficult • Symptoms getting significantly worse after day 5 • Shortness of breath or chest pain • Lymph nodes becoming very large or painful
+SmokingConsideration:
+Your smoking may slow healing and increase risk of complications like bronchitis. Consider this an opportunity to reduce or quit - even temporary reduction helps your immune system recover faster.
+Epilogue:
+Need help finding a doctor for follow-up care, or have other questions about managing your symptoms?
