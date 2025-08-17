@@ -35,7 +35,7 @@ import re
 import hashlib
 import os
 
-CSV_DEFAULT = Path(__file__).parent/ 'nejm45_eval.csv'
+CSV_DEFAULT = Path(__file__).parent / 'nejm45_eval.csv'
 
 # ---------------------------------------------------------------------------
 # Utility functions
@@ -277,14 +277,14 @@ def compute_concordance(rows: List[Dict[str, str]]) -> Dict:
 def compute_efficiency_by_tier(rows: List[Dict[str, str]], coverage_fn: Callable[[Dict[str, str]], float]) -> Dict:
     """Compute questions and coverage statistics by 3-tier expected tier."""
     tiers = {
-        'Emergency': {'questions': [], 'coverage': []},
-        'Doctor': {'questions': [], 'coverage': []},
-        'Self': {'questions': [], 'coverage': []}
+        'Emergency': {'questions': [], 'coverage': [], 'elicited': [], 'volunteered': [], 'elicitation_fraction': []},
+        'Doctor': {'questions': [], 'coverage': [], 'elicited': [], 'volunteered': [], 'elicitation_fraction': []},
+        'Self': {'questions': [], 'coverage': [], 'elicited': [], 'volunteered': [], 'elicitation_fraction': []}
     }
 
     for row in rows:
         exp_tier = _normalize_3tier(row.get('ExpectedCareRecommendation', ''))
-        tiers.setdefault(exp_tier, {'questions': [], 'coverage': []})
+        tiers.setdefault(exp_tier, {'questions': [], 'coverage': [], 'elicited': [], 'volunteered': [], 'elicitation_fraction': []})
         # Questions
         try:
             tiers[exp_tier]['questions'].append(int(float(str(row.get('NumQuestions', 0)).strip())))
@@ -294,6 +294,17 @@ def compute_efficiency_by_tier(rows: List[Dict[str, str]], coverage_fn: Callable
         cov = coverage_fn(row)
         # Always include coverage, even if zero; this avoids biasing medians upward
         tiers[exp_tier]['coverage'].append(cov)
+        
+        # Calculate elicitation fraction for this row
+        elicited = _int(row.get('NumFeaturesElicited', ''))
+        volunteered = _int(row.get('NumFeaturesVolunteered', ''))
+        total_surfaced = elicited + volunteered
+        elicitation_fraction = _percent(elicited, total_surfaced) if total_surfaced else 0.0
+        
+        # Store raw values and elicitation fraction
+        tiers[exp_tier]['elicited'].append(elicited)
+        tiers[exp_tier]['volunteered'].append(volunteered)
+        tiers[exp_tier]['elicitation_fraction'].append(elicitation_fraction)
 
     def _quartiles(vals: List[float]) -> Tuple[float, float]:
         # Inclusive method is more stable for small N and matches many biomedical reports
@@ -323,6 +334,17 @@ def compute_efficiency_by_tier(rows: List[Dict[str, str]], coverage_fn: Callable
                 'coverage_median': statistics.median(c),
                 'coverage_q1': c_q1,
                 'coverage_q3': c_q3
+            })
+            
+        # Calculate elicitation fraction statistics if data exists
+        ef = vals.get('elicitation_fraction', [])
+        if ef:
+            ef_q1, ef_q3 = _quartiles(ef)
+            results.setdefault(tier, {})
+            results[tier].update({
+                'elicitation_fraction_median': statistics.median(ef),
+                'elicitation_fraction_q1': ef_q1,
+                'elicitation_fraction_q3': ef_q3
             })
     return results
 
@@ -390,7 +412,7 @@ def print_manuscript_numbers(rows: List[Dict[str, str]], coverage_fn: Callable[[
     print(f"Over-triage (all tiers): {conc['over_triage']}/{conc['total']} ({conc['over_triage_pct']:.1f}%)")
 
     print("\n## CONFUSION MATRIX:")
-    print("| NEJM-45 Reference | Emergency | Doctor Visit | Self Care |")
+    print("| NEJM-45 Reference | System: Emergency | System: Doctor | System: Self |")
     print("|:---|:---:|:---:|:---:|")
     m = conc['confusion_matrix']
     ec = conc['expected_counts']
@@ -407,6 +429,8 @@ def print_manuscript_numbers(rows: List[Dict[str, str]], coverage_fn: Callable[[
                 print(f"{tier_name}: median {e['questions_median']:.0f} questions (IQR {e['questions_q1']:.0f}-{e['questions_q3']:.0f})")
             if 'coverage_median' in e:
                 print(f"{tier_name} elicitation coverage: median {e['coverage_median']:.0f}% (IQR {e['coverage_q1']:.0f}-{e['coverage_q3']:.0f})")
+            if 'elicitation_fraction_median' in e:
+                print(f"{tier_name} elicitation fraction: median {e['elicitation_fraction_median']:.1f}% (IQR {e['elicitation_fraction_q1']:.1f}-{e['elicitation_fraction_q3']:.1f}%)")
 
     print("\n## SAFETY ON EMERGENCY VIGNETTES:")
     emerg_total = conc.get('emergency_total', 0)
@@ -431,7 +455,18 @@ def print_coverage_breakdown(rows: List[Dict[str, str]]):
     print("\n## COVERAGE BREAKDOWN (Optional):")
     print(f"Volunteered coverage (overall): median {v_med:.0f}% (IQR {v_q1:.0f}-{v_q3:.0f})")
     print(f"Missed coverage (overall): median {m_med:.0f}% (IQR {m_q1:.0f}-{m_q3:.0f})")
-    print(f"Elicitation Fraction: median {e_surf_med:.0f}% (IQR {e_surf_q1:.0f}-{e_surf_q3:.0f})")
+    print(f"Overall elicitation fraction: median {e_surf_med:.0f}% (IQR {e_surf_q1:.0f}-{e_surf_q3:.0f})")
+    
+    # Per-tier elicitation fraction (from compute_efficiency_by_tier)
+    eff = compute_efficiency_by_tier(rows, compute_row_coverage_elicited)
+    print("\nElicitation fraction by tier:")
+    for tier in ['Emergency', 'Doctor', 'Self']:
+        if tier not in eff or 'elicitation_fraction_median' not in eff[tier]:
+            continue
+        tier_data = eff[tier]
+        tier_label = tier if tier == 'Doctor' else f"{tier} Care"
+        print(f"  {tier_label}: {tier_data['elicitation_fraction_median']:.1f}% (IQR: {tier_data['elicitation_fraction_q1']:.1f}–{tier_data['elicitation_fraction_q3']:.1f}%)")
+
 
 # ---------------------------------------------------------------------------
 # Validation & diagnostics
